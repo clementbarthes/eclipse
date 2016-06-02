@@ -1,0 +1,23 @@
+/*
+ * I2c.h
+ *
+ *  Created on: May 17, 2016
+ *      Author: root
+ */
+
+#ifndef I2C_H_
+#define I2C_H_
+
+
+
+class I2c {
+	char devAddress;
+	int fileHandle;
+public:
+	I2c(char devAddress);
+	char readReg(char reg);
+	void writeReg(char reg, char value);
+	virtual ~I2c();
+};
+
+#endif /* I2C_H_ */

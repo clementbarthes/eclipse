@@ -1,0 +1,15 @@
+//============================================================================
+// Name        : accelST.cpp
+// Author      : Clement Barthes
+// Version     :
+// Copyright   : This code is not intended to be distributed
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	cout << "Hey" << endl; // prints Hey
+	return 0;
+}

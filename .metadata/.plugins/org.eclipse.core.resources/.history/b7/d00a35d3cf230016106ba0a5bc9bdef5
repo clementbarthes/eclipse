@@ -1,0 +1,38 @@
+/*
+ ============================================================================
+ Name        : fast.c
+ Author      : Clement Barthes
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <sys/mman.h>
+#include <sys/stat.h>
+#include <fcntl.h>
+
+
+#define GPIO1_START_ADDR 0x4804C000
+#define GPIO1_END_ADDR   0x4804e000
+#define GPIO1_SIZE (GPIO1_END_ADDR - GPIO1_START_ADDR)
+
+#define GPIO_SETDATAOUT 0x194
+#define GPIO_CLEARDATAOUT 0x190
+#define pin67 (1<<4)
+
+volatile void *gpio_addr;
+volatile unsigned int *gpio_setdataout_addr;
+volatile unsigned int *gpio_cleardataout_addr;
+int fd = open("/dev/mem", O_RDWR);
+mmap(nullptr,4096,0, 0, -1, 0);
+
+int *clearPinAddress = (int*)(0x481AC190);
+int *setPinAddress = (int*)(0x481AC194);
+
+int main(void) {
+	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	return EXIT_SUCCESS;
+}

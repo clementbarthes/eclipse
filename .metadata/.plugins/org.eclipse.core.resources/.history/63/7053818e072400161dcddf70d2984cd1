@@ -1,0 +1,19 @@
+//============================================================================
+// Name        : accelST.cpp
+// Author      : Clement Barthes
+// Version     :
+// Copyright   : This code is not intended to be distributed
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+#include <sys/time.h>
+using namespace std;
+
+int main() {
+
+	while (1){
+		delay(1);
+	}
+	return 0;
+}

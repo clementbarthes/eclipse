@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;03_fastEmit/src/emit.cpp&apos; to &apos;fastEmit.cpp&apos;" description="Rename resource &apos;emit.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/emit.cpp" name="fastEmit.cpp" stamp="1464273280914" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;02_slowEmit/src/fastEmit.cpp&apos; to &apos;slowEmit.cpp&apos;" description="Rename resource &apos;fastEmit.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/fastEmit.cpp" name="slowEmit.cpp" stamp="1464274756656" updateReferences="true"/>
+</session>

@@ -1,0 +1,4273 @@
+04:58:29 **** Build of configuration Debug for project sampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: sampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "sampling"  ./src/sampling.o   
+Finished building target: sampling
+ 
+04:59:03 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+make: Nothing to be done for 'all'.
+04:59:06 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+make: Nothing to be done for 'all'.
+04:59:12 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+make: Nothing to be done for 'all'.
+04:59:33 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:00:08 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: sampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "sampling"  ./src/sampling.o   
+Finished building target: sampling
+ 
+05:00:25 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: sampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "sampling"  ./src/sampling.o   
+Finished building target: sampling
+ 
+05:00:35 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:00:48 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: sampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "sampling"  ./src/sampling.o   
+Finished building target: sampling
+ 
+05:00:55 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:01:12 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:01:58 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: sampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "sampling"  ./src/sampling.o   
+Finished building target: sampling
+ 
+05:02:48 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:02:55 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:03:24 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:04:25 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:05:00 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: sampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "sampling"  ./src/sampling.o   
+Finished building target: sampling
+ 
+05:05:27 **** Incremental Build of configuration Debug for project sampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: sampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "sampling"  ./src/sampling.o   
+Finished building target: sampling
+ 
+05:06:36 **** Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+05:06:43 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:07:03 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+05:07:11 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:07:15 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:08:07 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:08:07 **** Build of configuration Debug for project 02_measure ****
+make all 
+Building target: 02_measure
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_measure"  ./src/sampling.o   
+Finished building target: 02_measure
+ 
+05:09:09 **** Incremental Build of configuration Debug for project 02_measure ****
+make all 
+Building file: ../src/measure.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/measure.d" -MT"src/measure.o" -o "src/measure.o" "../src/measure.cpp"
+Finished building: ../src/measure.cpp
+ 
+Building target: 02_measure
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_measure"  ./src/measure.o   
+Finished building target: 02_measure
+ 
+06:14:18 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+06:14:18 **** Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+../src/emit.cpp: In function ‘void sigTimer_handler(int)’:
+../src/emit.cpp:54:23: error: expected initializer before numeric constant
+  static bool flipFlop 0;
+                       ^
+../src/emit.cpp:57:2: error: ‘flipFlop’ was not declared in this scope
+  flipFlop != flipFlop;
+  ^
+src/subdir.mk:18: recipe for target 'src/emit.o' failed
+make: *** [src/emit.o] Error 1
+06:14:32 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+06:14:32 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+../src/emit.cpp: In function ‘void sigTimer_handler(int)’:
+../src/emit.cpp:57:22: warning: statement has no effect [-Wunused-value]
+  flipFlop != flipFlop;
+                      ^
+Finished building: ../src/emit.cpp
+ 
+Building target: 02_emit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_emit"  ./src/emit.o   
+Finished building target: 02_emit
+ 
+06:15:09 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+06:15:09 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+Finished building: ../src/emit.cpp
+ 
+Building target: 02_emit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_emit"  ./src/emit.o   
+Finished building target: 02_emit
+ 
+06:15:17 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+make: Nothing to be done for 'all'.
+06:21:24 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+Finished building: ../src/emit.cpp
+ 
+Building target: 02_emit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_emit"  ./src/emit.o   
+Finished building target: 02_emit
+ 
+06:21:30 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+make: Nothing to be done for 'all'.
+06:52:25 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+Finished building: ../src/emit.cpp
+ 
+Building target: 02_emit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_emit"  ./src/emit.o   
+Finished building target: 02_emit
+ 
+06:52:33 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+make: Nothing to be done for 'all'.
+06:52:43 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+Finished building: ../src/emit.cpp
+ 
+Building target: 02_emit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_emit"  ./src/emit.o   
+Finished building target: 02_emit
+ 
+06:52:51 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+make: Nothing to be done for 'all'.
+06:53:29 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+Finished building: ../src/emit.cpp
+ 
+Building target: 02_emit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_emit"  ./src/emit.o   
+Finished building target: 02_emit
+ 
+06:55:38 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+Finished building: ../src/emit.cpp
+ 
+Building target: 02_emit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_emit"  ./src/emit.o   
+Finished building target: 02_emit
+ 
+06:55:45 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+make: Nothing to be done for 'all'.
+06:55:59 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+06:55:59 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+make: Nothing to be done for 'all'.
+06:56:03 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+make: Nothing to be done for 'all'.
+06:56:27 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+make: Nothing to be done for 'all'.
+06:56:53 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+make: Nothing to be done for 'all'.
+06:57:46 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+06:57:46 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+Finished building: ../src/emit.cpp
+ 
+Building target: 02_emit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_emit"  ./src/emit.o   
+Finished building target: 02_emit
+ 
+06:57:52 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+make: Nothing to be done for 'all'.
+06:58:27 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+Finished building: ../src/emit.cpp
+ 
+Building target: 02_emit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_emit"  ./src/emit.o   
+Finished building target: 02_emit
+ 
+06:58:34 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+make: Nothing to be done for 'all'.
+06:59:14 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+make: Nothing to be done for 'all'.
+07:08:09 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+make: Nothing to be done for 'all'.
+07:44:22 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+../src/emit.cpp:22:42: error: invalid conversion from ‘int’ to ‘const int*’ [-fpermissive]
+ const int* clearPinAddress = 0x481AC00 + 0x190;
+                                          ^
+../src/emit.cpp:23:40: error: invalid conversion from ‘int’ to ‘const int*’ [-fpermissive]
+ const int* setPinAddress = 0x481AC00 + 0x194;
+                                        ^
+../src/emit.cpp: In function ‘void sigTimer_handler(int)’:
+../src/emit.cpp:61:3: error: ‘pinAddress’ was not declared in this scope
+  &pinAddress = flipFlop ? setPinAddress : clearPinAddress;
+   ^
+src/subdir.mk:18: recipe for target 'src/emit.o' failed
+make: *** [src/emit.o] Error 1
+07:44:51 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+07:44:51 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+../src/emit.cpp:22:36: error: invalid conversion from ‘int’ to ‘int*’ [-fpermissive]
+ int *clearPinAddress = 0x481AC00 + 0x190;
+                                    ^
+../src/emit.cpp:23:34: error: invalid conversion from ‘int’ to ‘int*’ [-fpermissive]
+ int *setPinAddress = 0x481AC00 + 0x194;
+                                  ^
+../src/emit.cpp: In function ‘void sigTimer_handler(int)’:
+../src/emit.cpp:61:3: error: ‘pinAddress’ was not declared in this scope
+  &pinAddress = flipFlop ? setPinAddress : clearPinAddress;
+   ^
+src/subdir.mk:18: recipe for target 'src/emit.o' failed
+make: *** [src/emit.o] Error 1
+07:44:52 **** Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+07:45:08 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+07:45:08 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+../src/emit.cpp:22:36: error: invalid conversion from ‘int’ to ‘int*’ [-fpermissive]
+ int *clearPinAddress = 0x481AC00 + 0x190;
+                                    ^
+../src/emit.cpp:23:34: error: invalid conversion from ‘int’ to ‘int*’ [-fpermissive]
+ int *setPinAddress = 0x481AC00 + 0x194;
+                                  ^
+../src/emit.cpp: In function ‘void sigTimer_handler(int)’:
+../src/emit.cpp:61:3: error: ‘pinAddress’ was not declared in this scope
+  &pinAddress = flipFlop ? setPinAddress : clearPinAddress;
+   ^
+src/subdir.mk:18: recipe for target 'src/emit.o' failed
+make: *** [src/emit.o] Error 1
+07:45:08 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:47:48 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+07:47:49 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+../src/emit.cpp: In function ‘void sigTimer_handler(int)’:
+../src/emit.cpp:60:25: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+  if(flipFlop = !flipFlop){
+                         ^
+../src/emit.cpp:61:19: warning: statement has no effect [-Wunused-value]
+   &clearPinAddress;
+                   ^
+Finished building: ../src/emit.cpp
+ 
+Building target: 02_emit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_emit"  ./src/emit.o   
+Finished building target: 02_emit
+ 
+07:47:49 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:48:14 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+07:48:14 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+../src/emit.cpp: In function ‘void sigTimer_handler(int)’:
+../src/emit.cpp:61:19: warning: statement has no effect [-Wunused-value]
+   &clearPinAddress;
+                   ^
+Finished building: ../src/emit.cpp
+ 
+Building target: 02_emit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_emit"  ./src/emit.o   
+Finished building target: 02_emit
+ 
+07:48:15 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:48:58 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+../src/emit.cpp: In function ‘void sigTimer_handler(int)’:
+../src/emit.cpp:61:20: error: lvalue required as left operand of assignment
+   &clearPinAddress = 0x00000004;
+                    ^
+../src/emit.cpp:63:18: error: lvalue required as left operand of assignment
+   &setPinAddress = 0x00000004;
+                  ^
+src/subdir.mk:18: recipe for target 'src/emit.o' failed
+make: *** [src/emit.o] Error 1
+07:49:23 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+07:49:23 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+Finished building: ../src/emit.cpp
+ 
+Building target: 02_emit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_emit"  ./src/emit.o   
+Finished building target: 02_emit
+ 
+07:49:24 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:50:20 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:50:39 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:51:29 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:51:58 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:54:34 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:54:42 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:55:00 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:55:23 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+07:55:24 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+Finished building: ../src/emit.cpp
+ 
+Building target: 02_emit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_emit"  ./src/emit.o   
+Finished building target: 02_emit
+ 
+07:55:24 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:55:30 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:55:45 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:56:21 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:56:44 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:57:02 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:57:09 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+07:57:09 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+Building file: ../src/emit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/emit.d" -MT"src/emit.o" -o "src/emit.o" "../src/emit.cpp"
+Finished building: ../src/emit.cpp
+ 
+Building target: 02_emit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_emit"  ./src/emit.o   
+Finished building target: 02_emit
+ 
+07:57:10 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:57:14 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:58:06 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+07:58:06 **** Incremental Build of configuration Debug for project 02_emit ****
+make all 
+make: Nothing to be done for 'all'.
+07:58:06 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:00:23 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:00:23 **** Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+08:00:24 **** Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+08:00:43 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:02:20 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+08:03:15 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+08:04:08 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp: In function ‘void sigTimer_handler(int)’:
+../src/fastEmit.cpp:61:22: error: ‘cendl’ was not declared in this scope
+   cout << "Clear" << cendl;
+                      ^
+../src/fastEmit.cpp:64:20: error: ‘cendl’ was not declared in this scope
+   cout << "Set" << cendl;
+                    ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:04:33 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:04:33 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:04:33 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+08:04:36 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:16:16 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:16:16 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:16:16 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:17:18 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:17:18 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:17:18 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:35:1: error: ‘gpio_addr’ does not name a type
+ gpio_addr = mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+ ^
+../src/fastEmit.cpp:37:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:38:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:19:29 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:19:29 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:19:30 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:36:1: error: ‘gpio_addr’ does not name a type
+ gpio_addr = mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+ ^
+../src/fastEmit.cpp:38:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:39:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:21:13 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:21:13 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:21:14 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:36:1: error: ‘gpio_addr’ does not name a type
+ gpio_addr = mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+ ^
+../src/fastEmit.cpp:38:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:39:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:21:33 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:21:33 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:21:33 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:36:1: error: ‘gpio_addr’ does not name a type
+ gpio_addr = mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+ ^
+../src/fastEmit.cpp:38:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:39:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:21:43 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:21:43 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:21:44 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:36:1: error: ‘gpio_addr’ does not name a type
+ gpio_addr = mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+ ^
+../src/fastEmit.cpp:38:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:39:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:21:53 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:36:1: error: ‘gpio_addr’ does not name a type
+ gpio_addr = mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+ ^
+../src/fastEmit.cpp:38:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:39:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:22:35 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+08:22:35 **** Clean-only build of configuration Debug for project 02_slowEmit ****
+make clean 
+rm -rf  ./src/slowEmit.o  ./src/slowEmit.d  02_slowEmit
+ 
+08:22:35 **** Clean-only build of configuration Debug for project 03_fastEmit ****
+make clean 
+rm -rf  ./src/fastEmit.o  ./src/fastEmit.d  03_fastEmit
+ 
+08:22:39 **** Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+08:22:39 **** Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+08:22:40 **** Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:36:1: error: ‘gpio_addr’ does not name a type
+ gpio_addr = mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+ ^
+../src/fastEmit.cpp:38:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:39:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:23:14 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:23:14 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:23:14 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:36:1: error: ‘gpio_addr’ does not name a type
+ gpio_addr = mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+ ^
+../src/fastEmit.cpp:38:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:39:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:29:46 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:29:47 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:29:47 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:36:1: error: ‘gpio_addr’ does not name a type
+ gpio_addr = mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+ ^
+../src/fastEmit.cpp:38:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:39:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:30:45 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+08:30:45 **** Clean-only build of configuration Debug for project 02_slowEmit ****
+make clean 
+rm -rf  ./src/slowEmit.o  ./src/slowEmit.d  02_slowEmit
+ 
+08:30:45 **** Clean-only build of configuration Debug for project 03_fastEmit ****
+make clean 
+rm -rf  ./src/fastEmit.o  ./src/fastEmit.d  03_fastEmit
+ 
+08:30:48 **** Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+08:30:49 **** Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+08:30:49 **** Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:36:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+     ^
+../src/fastEmit.cpp:38:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:39:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:32:01 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:32:01 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:32:01 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:36:1: error: ‘gpio_addr’ does not name a type
+ gpio_addr = mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+ ^
+../src/fastEmit.cpp:38:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:39:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:32:14 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:32:14 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:32:14 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:36:1: error: ‘gpio_addr’ does not name a type
+ gpio_addr = mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+ ^
+../src/fastEmit.cpp:38:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:39:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:33:51 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:33:51 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:33:52 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:36:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+     ^
+../src/fastEmit.cpp:38:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:39:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:38:27 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:38:27 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:38:27 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:41:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+     ^
+../src/fastEmit.cpp:43:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:44:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:38:33 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+08:38:33 **** Clean-only build of configuration Debug for project 02_slowEmit ****
+make clean 
+rm -rf  ./src/slowEmit.o  ./src/slowEmit.d  02_slowEmit
+ 
+08:38:33 **** Clean-only build of configuration Debug for project 03_fastEmit ****
+make clean 
+rm -rf  ./src/fastEmit.o  ./src/fastEmit.d  03_fastEmit
+ 
+08:38:41 **** Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+08:38:41 **** Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+08:38:42 **** Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:41:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+     ^
+../src/fastEmit.cpp:43:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:44:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:41:07 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:41:08 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:41:08 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:42:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+     ^
+../src/fastEmit.cpp:44:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:45:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:43:31 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:43:31 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:43:32 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:36:2: error: expected unqualified-id before ‘char’
+ (char*)mmap(0, GPIO1_SIZE, PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+  ^
+../src/fastEmit.cpp:36:2: error: expected ‘)’ before ‘char’
+../src/fastEmit.cpp:38:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:39:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:43:48 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:43:48 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:43:48 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+08:45:14 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:45:14 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:45:14 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:36:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(NULL, 4096, PROT_READ|PROT_WRITE, MAP_ANON|MAP_SHARED, -1, 0);
+     ^
+../src/fastEmit.cpp:38:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:39:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:46:08 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:46:08 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:46:08 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:42:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(NULL, 4096, PROT_READ|PROT_WRITE, MAP_ANON|MAP_SHARED, -1, 0);
+     ^
+../src/fastEmit.cpp:44:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:45:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:46:22 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+08:46:22 **** Clean-only build of configuration Debug for project 02_slowEmit ****
+make clean 
+rm -rf  ./src/slowEmit.o  ./src/slowEmit.d  02_slowEmit
+ 
+08:46:22 **** Clean-only build of configuration Debug for project 03_fastEmit ****
+make clean 
+rm -rf  ./src/fastEmit.o  ./src/fastEmit.d  03_fastEmit
+ 
+08:46:38 **** Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+08:46:39 **** Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+08:46:40 **** Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:42:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(NULL, 4096, PROT_READ|PROT_WRITE, MAP_ANON|MAP_SHARED, -1, 0);
+     ^
+../src/fastEmit.cpp:44:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:45:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:48:47 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:48:47 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:48:48 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:43:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(NULL, 4096, PROT_READ|PROT_WRITE, MAP_ANON|MAP_SHARED, -1, 0);
+     ^
+../src/fastEmit.cpp:45:1: error: ‘gpio_setdataout_addr’ does not name a type
+ gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+ ^
+../src/fastEmit.cpp:46:1: error: ‘gpio_cleardataout_addr’ does not name a type
+ gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+ ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+08:49:40 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:49:40 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:49:41 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:44:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(NULL, 4096, PROT_READ, MAP_PRIVATE, fd, 0);
+     ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+22:47:59 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+22:48:00 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+22:48:00 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:43:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(0,sizeof(int),PROT_READ | PROT_WRITE, MAP_ANONYMOUS, -1, GPIO1_START_ADDR);
+     ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+22:49:45 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+22:49:46 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+22:49:47 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:43:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(0,sizeof(int),0, 0, -1, 0);
+     ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+22:50:13 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+22:50:14 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+22:50:14 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:43:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(NULL,sizeof(int),0, 0, -1, 0);
+     ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+22:51:06 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+22:51:06 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+22:51:07 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:43:1: warning: identifier ‘nullptr’ is a keyword in C++11 [-Wc++0x-compat]
+ mmap(nullptr,sizeof(int),0, 0, -1, 0);
+ ^
+../src/fastEmit.cpp:43:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(nullptr,sizeof(int),0, 0, -1, 0);
+     ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+22:51:50 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+22:51:50 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+22:51:50 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:43:1: warning: identifier ‘nullptr’ is a keyword in C++11 [-Wc++0x-compat]
+ mmap64(nullptr,4096,0, 0, -1, 0);
+ ^
+../src/fastEmit.cpp:43:7: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap64(nullptr,4096,0, 0, -1, 0);
+       ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+22:51:59 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+22:51:59 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+22:51:59 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:43:1: warning: identifier ‘nullptr’ is a keyword in C++11 [-Wc++0x-compat]
+ mmap64(nullptr,4096,0, 0, -1, 0);
+ ^
+../src/fastEmit.cpp:43:7: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap64(nullptr,4096,0, 0, -1, 0);
+       ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+22:52:09 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+22:52:09 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+22:52:10 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:43:1: warning: identifier ‘nullptr’ is a keyword in C++11 [-Wc++0x-compat]
+ mmap(nullptr,4096,0, 0, -1, 0);
+ ^
+../src/fastEmit.cpp:43:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(nullptr,4096,0, 0, -1, 0);
+     ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+22:52:19 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+22:52:19 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+22:52:20 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+22:52:37 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+22:52:37 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+22:52:37 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:43:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(NULL,4096,0, 0, -1, 0);
+     ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+22:56:43 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+22:56:43 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+22:56:44 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:43:1: warning: identifier ‘nullptr’ is a keyword in C++11 [-Wc++0x-compat]
+ mmap(nullptr,4096,0, 0, -1, 0);
+ ^
+../src/fastEmit.cpp:43:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(nullptr,4096,0, 0, -1, 0);
+     ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+22:56:45 **** Build of configuration Debug for project fast ****
+make all 
+Building file: ../src/fast.c
+Invoking: Cross GCC Compiler
+arm-linux-gnueabihf-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fast.d" -MT"src/fast.o" -o "src/fast.o" "../src/fast.c"
+../src/fast.c:29:1: error: initializer element is not constant
+ int fd = open("/dev/mem", O_RDWR);
+ ^
+../src/fast.c:30:14: error: expected ‘)’ before numeric constant
+ mmap(nullptr,4096,0, 0, -1, 0);
+              ^
+src/subdir.mk:18: recipe for target 'src/fast.o' failed
+make: *** [src/fast.o] Error 1
+22:57:07 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+22:57:07 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+22:57:07 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:43:1: warning: identifier ‘nullptr’ is a keyword in C++11 [-Wc++0x-compat]
+ mmap(nullptr,4096,0, 0, -1, 0);
+ ^
+../src/fastEmit.cpp:43:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(nullptr,4096,0, 0, -1, 0);
+     ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+22:57:08 **** Incremental Build of configuration Debug for project fast ****
+make all 
+Building file: ../src/fast.c
+Invoking: Cross GCC Compiler
+arm-linux-gnueabihf-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fast.d" -MT"src/fast.o" -o "src/fast.o" "../src/fast.c"
+../src/fast.c:30:6: error: expected declaration specifiers or ‘...’ before numeric constant
+ mmap(0,4096,0, 0, -1, 0);
+      ^
+../src/fast.c:30:8: error: expected declaration specifiers or ‘...’ before numeric constant
+ mmap(0,4096,0, 0, -1, 0);
+        ^
+../src/fast.c:30:13: error: expected declaration specifiers or ‘...’ before numeric constant
+ mmap(0,4096,0, 0, -1, 0);
+             ^
+../src/fast.c:30:16: error: expected declaration specifiers or ‘...’ before numeric constant
+ mmap(0,4096,0, 0, -1, 0);
+                ^
+../src/fast.c:30:19: error: expected declaration specifiers or ‘...’ before ‘-’ token
+ mmap(0,4096,0, 0, -1, 0);
+                   ^
+../src/fast.c:30:23: error: expected declaration specifiers or ‘...’ before numeric constant
+ mmap(0,4096,0, 0, -1, 0);
+                       ^
+src/subdir.mk:18: recipe for target 'src/fast.o' failed
+make: *** [src/fast.o] Error 1
+22:57:52 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+22:57:52 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+22:57:52 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:43:1: warning: identifier ‘nullptr’ is a keyword in C++11 [-Wc++0x-compat]
+ mmap(nullptr,4096,0, 0, -1, 0);
+ ^
+../src/fastEmit.cpp:43:5: error: expected constructor, destructor, or type conversion before ‘(’ token
+ mmap(nullptr,4096,0, 0, -1, 0);
+     ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+22:57:53 **** Incremental Build of configuration Debug for project fast ****
+make all 
+Building file: ../src/fast.c
+Invoking: Cross GCC Compiler
+arm-linux-gnueabihf-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fast.d" -MT"src/fast.o" -o "src/fast.o" "../src/fast.c"
+../src/fast.c: In function ‘main’:
+../src/fast.c:35:6: warning: unused variable ‘fd’ [-Wunused-variable]
+  int fd = open("/dev/mem", O_RDWR);
+      ^
+../src/fast.c:34:25: warning: unused variable ‘gpio_cleardataout_addr’ [-Wunused-variable]
+  volatile unsigned int *gpio_cleardataout_addr;
+                         ^
+../src/fast.c:33:25: warning: unused variable ‘gpio_setdataout_addr’ [-Wunused-variable]
+  volatile unsigned int *gpio_setdataout_addr;
+                         ^
+../src/fast.c:32:17: warning: unused variable ‘gpio_addr’ [-Wunused-variable]
+  volatile void *gpio_addr;
+                 ^
+Finished building: ../src/fast.c
+ 
+Building target: fast
+Invoking: Cross GCC Linker
+arm-linux-gnueabihf-gcc  -o "fast"  ./src/fast.o   
+Finished building target: fast
+ 
+22:58:41 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+22:58:41 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+22:58:42 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp: In function ‘int main()’:
+../src/fastEmit.cpp:51:7: warning: unused variable ‘clearPinAddress’ [-Wunused-variable]
+  int *clearPinAddress = (int*)(0x481AC190);
+       ^
+../src/fastEmit.cpp:52:7: warning: unused variable ‘setPinAddress’ [-Wunused-variable]
+  int *setPinAddress = (int*)(0x481AC194);
+       ^
+../src/fastEmit.cpp: In function ‘void sigTimer_handler(int)’:
+../src/fastEmit.cpp:87:4: error: ‘clearPinAddress’ was not declared in this scope
+   *clearPinAddress = 0x00000004;
+    ^
+../src/fastEmit.cpp:90:4: error: ‘setPinAddress’ was not declared in this scope
+   *setPinAddress = 0x00000004;
+    ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+22:58:42 **** Incremental Build of configuration Debug for project fast ****
+make all 
+make: Nothing to be done for 'all'.
+23:01:57 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+23:01:57 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:01:57 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp: In function ‘int main()’:
+../src/fastEmit.cpp:35:25: warning: pointer of type ‘void *’ used in arithmetic [-Wpointer-arith]
+ #define GPIO_SETDATAOUT 0x194
+                         ^
+../src/fastEmit.cpp:51:39: note: in expansion of macro ‘GPIO_SETDATAOUT’
+  gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+                                       ^
+../src/fastEmit.cpp:51:37: error: invalid conversion from ‘volatile void*’ to ‘volatile unsigned int*’ [-fpermissive]
+  gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+                                     ^
+../src/fastEmit.cpp:36:27: warning: pointer of type ‘void *’ used in arithmetic [-Wpointer-arith]
+ #define GPIO_CLEARDATAOUT 0x190
+                           ^
+../src/fastEmit.cpp:52:39: note: in expansion of macro ‘GPIO_CLEARDATAOUT’
+  gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+                                       ^
+../src/fastEmit.cpp:52:37: error: invalid conversion from ‘volatile void*’ to ‘volatile unsigned int*’ [-fpermissive]
+  gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+                                     ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+23:01:58 **** Incremental Build of configuration Debug for project fast ****
+make all 
+make: Nothing to be done for 'all'.
+23:02:05 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp: In function ‘int main()’:
+../src/fastEmit.cpp:35:25: warning: pointer of type ‘void *’ used in arithmetic [-Wpointer-arith]
+ #define GPIO_SETDATAOUT 0x194
+                         ^
+../src/fastEmit.cpp:51:39: note: in expansion of macro ‘GPIO_SETDATAOUT’
+  gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+                                       ^
+../src/fastEmit.cpp:51:37: error: invalid conversion from ‘volatile void*’ to ‘volatile unsigned int*’ [-fpermissive]
+  gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+                                     ^
+../src/fastEmit.cpp:36:27: warning: pointer of type ‘void *’ used in arithmetic [-Wpointer-arith]
+ #define GPIO_CLEARDATAOUT 0x190
+                           ^
+../src/fastEmit.cpp:52:39: note: in expansion of macro ‘GPIO_CLEARDATAOUT’
+  gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+                                       ^
+../src/fastEmit.cpp:52:37: error: invalid conversion from ‘volatile void*’ to ‘volatile unsigned int*’ [-fpermissive]
+  gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+                                     ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+23:02:25 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+23:02:26 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:02:26 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp: In function ‘int main()’:
+../src/fastEmit.cpp:51:29: error: ‘volatile void*’ is not a pointer-to-object type
+  *gpio_setdataout_addr   = *gpio_addr + GPIO_SETDATAOUT;
+                             ^
+../src/fastEmit.cpp:52:29: error: ‘volatile void*’ is not a pointer-to-object type
+  *gpio_cleardataout_addr = *gpio_addr + GPIO_CLEARDATAOUT;
+                             ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+23:02:27 **** Incremental Build of configuration Debug for project fast ****
+make all 
+make: Nothing to be done for 'all'.
+23:02:38 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+23:02:38 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:02:38 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp: In function ‘int main()’:
+../src/fastEmit.cpp:35:25: warning: pointer of type ‘void *’ used in arithmetic [-Wpointer-arith]
+ #define GPIO_SETDATAOUT 0x194
+                         ^
+../src/fastEmit.cpp:51:39: note: in expansion of macro ‘GPIO_SETDATAOUT’
+  gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+                                       ^
+../src/fastEmit.cpp:51:37: error: invalid conversion from ‘volatile void*’ to ‘volatile unsigned int*’ [-fpermissive]
+  gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+                                     ^
+../src/fastEmit.cpp:36:27: warning: pointer of type ‘void *’ used in arithmetic [-Wpointer-arith]
+ #define GPIO_CLEARDATAOUT 0x190
+                           ^
+../src/fastEmit.cpp:52:39: note: in expansion of macro ‘GPIO_CLEARDATAOUT’
+  gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+                                       ^
+../src/fastEmit.cpp:52:37: error: invalid conversion from ‘volatile void*’ to ‘volatile unsigned int*’ [-fpermissive]
+  gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+                                     ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+23:02:39 **** Incremental Build of configuration Debug for project fast ****
+make all 
+make: Nothing to be done for 'all'.
+23:02:54 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+23:02:54 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:02:54 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp:40:25: error: ‘signed’ or ‘unsigned’ invalid for ‘gpio_setdataout_addr’
+ volatile unsigned void *gpio_setdataout_addr;
+                         ^
+../src/fastEmit.cpp:41:25: error: ‘signed’ or ‘unsigned’ invalid for ‘gpio_cleardataout_addr’
+ volatile unsigned void *gpio_cleardataout_addr;
+                         ^
+../src/fastEmit.cpp: In function ‘int main()’:
+../src/fastEmit.cpp:35:25: warning: pointer of type ‘void *’ used in arithmetic [-Wpointer-arith]
+ #define GPIO_SETDATAOUT 0x194
+                         ^
+../src/fastEmit.cpp:51:39: note: in expansion of macro ‘GPIO_SETDATAOUT’
+  gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+                                       ^
+../src/fastEmit.cpp:36:27: warning: pointer of type ‘void *’ used in arithmetic [-Wpointer-arith]
+ #define GPIO_CLEARDATAOUT 0x190
+                           ^
+../src/fastEmit.cpp:52:39: note: in expansion of macro ‘GPIO_CLEARDATAOUT’
+  gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+                                       ^
+../src/fastEmit.cpp: In function ‘void sigTimer_handler(int)’:
+../src/fastEmit.cpp:76:4: error: ‘volatile void*’ is not a pointer-to-object type
+   *gpio_setdataout_addr = pin67;
+    ^
+../src/fastEmit.cpp:78:4: error: ‘volatile void*’ is not a pointer-to-object type
+   *gpio_cleardataout_addr = pin67;
+    ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+23:02:55 **** Incremental Build of configuration Debug for project fast ****
+make all 
+make: Nothing to be done for 'all'.
+23:03:13 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+23:03:14 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:03:14 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp: In function ‘int main()’:
+../src/fastEmit.cpp:51:37: error: invalid conversion from ‘volatile int*’ to ‘volatile unsigned int*’ [-fpermissive]
+  gpio_setdataout_addr   = gpio_addr + GPIO_SETDATAOUT;
+                                     ^
+../src/fastEmit.cpp:52:37: error: invalid conversion from ‘volatile int*’ to ‘volatile unsigned int*’ [-fpermissive]
+  gpio_cleardataout_addr = gpio_addr + GPIO_CLEARDATAOUT;
+                                     ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+23:03:15 **** Incremental Build of configuration Debug for project fast ****
+make all 
+make: Nothing to be done for 'all'.
+23:03:32 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+23:03:33 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:03:33 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+23:03:34 **** Incremental Build of configuration Debug for project fast ****
+make all 
+make: Nothing to be done for 'all'.
+23:03:38 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:04:33 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+23:04:33 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:04:33 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp: In function ‘void sigTimer_handler(int)’:
+../src/fastEmit.cpp:76:5: error: ‘flipflop’ was not declared in this scope
+  if(flipflop){
+     ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+23:04:34 **** Incremental Build of configuration Debug for project fast ****
+make all 
+make: Nothing to be done for 'all'.
+23:04:44 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+23:04:44 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:04:45 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+23:04:46 **** Incremental Build of configuration Debug for project fast ****
+make all 
+make: Nothing to be done for 'all'.
+23:04:49 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:04:56 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:05:40 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:07:03 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:08:40 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:08:53 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+23:09:00 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:11:30 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+23:11:30 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:11:30 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+../src/fastEmit.cpp: In function ‘int main()’:
+../src/fastEmit.cpp:47:90: error: ‘GPIO1_START_ADDR’ was not declared in this scope
+  gpio_addr = (unsigned int*)mmap(0, sizeof(int), PROT_READ | PROT_WRITE, MAP_SHARED, fd, GPIO1_START_ADDR);
+                                                                                          ^
+src/subdir.mk:18: recipe for target 'src/fastEmit.o' failed
+make: *** [src/fastEmit.o] Error 1
+23:11:31 **** Incremental Build of configuration Debug for project fast ****
+make all 
+make: Nothing to be done for 'all'.
+23:11:44 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+23:11:44 **** Clean-only build of configuration Debug for project 02_slowEmit ****
+make clean 
+rm -rf  ./src/slowEmit.o  ./src/slowEmit.d  02_slowEmit
+ 
+23:11:44 **** Clean-only build of configuration Debug for project 03_fastEmit ****
+make clean 
+rm -rf  ./src/fastEmit.o  ./src/fastEmit.d  03_fastEmit
+ 
+23:11:44 **** Clean-only build of configuration Debug for project fast ****
+make clean 
+rm -rf  ./src/fast.o  ./src/fast.d  fast
+ 
+23:11:48 **** Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+23:11:48 **** Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+23:11:49 **** Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+23:11:50 **** Build of configuration Debug for project fast ****
+make all 
+Building file: ../src/fast.c
+Invoking: Cross GCC Compiler
+arm-linux-gnueabihf-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fast.d" -MT"src/fast.o" -o "src/fast.o" "../src/fast.c"
+../src/fast.c: In function ‘main’:
+../src/fast.c:35:6: warning: unused variable ‘fd’ [-Wunused-variable]
+  int fd = open("/dev/mem", O_RDWR);
+      ^
+../src/fast.c:34:25: warning: unused variable ‘gpio_cleardataout_addr’ [-Wunused-variable]
+  volatile unsigned int *gpio_cleardataout_addr;
+                         ^
+../src/fast.c:33:25: warning: unused variable ‘gpio_setdataout_addr’ [-Wunused-variable]
+  volatile unsigned int *gpio_setdataout_addr;
+                         ^
+../src/fast.c:32:17: warning: unused variable ‘gpio_addr’ [-Wunused-variable]
+  volatile void *gpio_addr;
+                 ^
+Finished building: ../src/fast.c
+ 
+Building target: fast
+Invoking: Cross GCC Linker
+arm-linux-gnueabihf-gcc  -o "fast"  ./src/fast.o   
+Finished building target: fast
+ 
+23:11:54 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:12:19 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:12:58 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+23:12:58 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:12:58 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+23:12:59 **** Incremental Build of configuration Debug for project fast ****
+make all 
+make: Nothing to be done for 'all'.
+23:13:03 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:13:23 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:16:23 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+23:16:24 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:16:24 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+23:16:25 **** Incremental Build of configuration Debug for project fast ****
+make all 
+make: Nothing to be done for 'all'.
+23:16:28 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:16:40 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+23:17:31 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+03:07:23 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+03:07:43 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+03:07:43 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+03:13:25 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:09:59 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+05:09:59 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+05:10:00 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+05:10:01 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+05:10:02 **** Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/accelST.o   
+Finished building target: accelST
+ 
+05:10:53 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+05:28:32 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:28:32 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:28:32 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:28:33 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from ../src/Lsm303d.cpp:8:0:
+../src/Lsm303d.h:15:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t accelAddress = 0x1e;
+               ^
+../src/Lsm303d.h:18:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t accelX = 0x28;
+               ^
+../src/Lsm303d.h:19:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t accelY = 0x2A;
+               ^
+../src/Lsm303d.h:20:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t accelZ = 0x2C;
+               ^
+../src/Lsm303d.h:22:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t magnetX = 0x08;
+               ^
+../src/Lsm303d.h:23:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t magnetY = 0x0A;
+               ^
+../src/Lsm303d.h:24:15: error: ‘uint8_t’ does not name a type
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+  static const uint8_t magnetZ = 0x0C;
+               ^
+../src/Lsm303d.h:26:18: error: ‘uint8_t’ has not been declared
+  float readAccel(uint8_t accelDir);
+                  ^
+../src/Lsm303d.h:27:19: error: ‘uint8_t’ has not been declared
+  float readMagnet(uint8_t magnetDir);
+                   ^
+../src/Lsm303d.cpp: In constructor ‘Lsm303d::Lsm303d()’:
+../src/Lsm303d.cpp:13:21: error: ‘class I2c’ has no member named ‘address’
+  i2c = new I2c(i2c->address(accelAddress);
+                     ^
+../src/Lsm303d.cpp:13:29: error: ‘accelAddress’ was not declared in this scope
+  i2c = new I2c(i2c->address(accelAddress);
+                             ^
+../src/Lsm303d.cpp:13:41: error: no matching function for call to ‘I2c::I2c()’
+  i2c = new I2c(i2c->address(accelAddress);
+                                         ^
+../src/Lsm303d.cpp:13:41: note: candidates are:
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+../src/I2c.h:17:2: note: I2c::I2c(char)
+  I2c(char devAddress);
+  ^
+../src/I2c.h:17:2: note:   candidate expects 1 argument, 0 provided
+../src/I2c.h:13:7: note: I2c::I2c(const I2c&)
+ class I2c {
+       ^
+../src/I2c.h:13:7: note:   candidate expects 1 argument, 0 provided
+../src/Lsm303d.cpp: At global scope:
+../src/Lsm303d.cpp:26:26: error: ‘float Lsm303d::readAccel’ is not a static member of ‘class Lsm303d’
+ float Lsm303d::readAccel(uint8_t accelDir) {
+                          ^
+../src/Lsm303d.cpp:26:26: error: ‘uint8_t’ was not declared in this scope
+../src/Lsm303d.cpp:26:44: error: expected ‘,’ or ‘;’ before ‘{’ token
+ float Lsm303d::readAccel(uint8_t accelDir) {
+                                            ^
+make: *** [src/Lsm303d.o] Error 1
+05:30:04 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:30:04 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:30:05 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:30:05 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from ../src/Lsm303d.cpp:8:0:
+../src/Lsm303d.h:15:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t accelAddress = 0x1e;
+               ^
+../src/Lsm303d.h:18:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t accelX = 0x28;
+               ^
+../src/Lsm303d.h:19:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t accelY = 0x2A;
+               ^
+../src/Lsm303d.h:20:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t accelZ = 0x2C;
+               ^
+../src/Lsm303d.h:22:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t magnetX = 0x08;
+               ^
+../src/Lsm303d.h:23:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t magnetY = 0x0A;
+               ^
+../src/Lsm303d.h:24:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t magnetZ = 0x0C;
+               ^
+../src/Lsm303d.h:26:18: error: ‘uint8_t’ has not been declared
+  float readAccel(uint8_t accelDir);
+                  ^
+../src/Lsm303d.h:27:19: error: ‘uint8_t’ has not been declared
+  float readMagnet(uint8_t magnetDir);
+                   ^
+../src/Lsm303d.cpp: In constructor ‘Lsm303d::Lsm303d()’:
+../src/Lsm303d.cpp:13:16: error: ‘accelAddress’ was not declared in this scope
+  i2c = new I2c(accelAddress);
+                ^
+../src/Lsm303d.cpp: At global scope:
+../src/Lsm303d.cpp:26:26: error: ‘float Lsm303d::readAccel’ is not a static member of ‘class Lsm303d’
+ float Lsm303d::readAccel(uint8_t accelDir) {
+                          ^
+../src/Lsm303d.cpp:26:26: error: ‘uint8_t’ was not declared in this scope
+../src/Lsm303d.cpp:26:44: error: expected ‘,’ or ‘;’ before ‘{’ token
+ float Lsm303d::readAccel(uint8_t accelDir) {
+                                            ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+05:30:49 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:30:49 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:30:49 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:30:49 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from ../src/Lsm303d.cpp:8:0:
+../src/Lsm303d.h:16:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t accelAddress = 0x1e;
+               ^
+../src/Lsm303d.h:19:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t accelX = 0x28;
+               ^
+../src/Lsm303d.h:20:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t accelY = 0x2A;
+               ^
+../src/Lsm303d.h:21:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t accelZ = 0x2C;
+               ^
+../src/Lsm303d.h:23:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t magnetX = 0x08;
+               ^
+../src/Lsm303d.h:24:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t magnetY = 0x0A;
+               ^
+../src/Lsm303d.h:25:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t magnetZ = 0x0C;
+               ^
+../src/Lsm303d.h:27:18: error: ‘uint8_t’ has not been declared
+  float readAccel(uint8_t accelDir);
+                  ^
+../src/Lsm303d.h:28:19: error: ‘uint8_t’ has not been declared
+  float readMagnet(uint8_t magnetDir);
+                   ^
+../src/Lsm303d.cpp: In constructor ‘Lsm303d::Lsm303d()’:
+../src/Lsm303d.cpp:13:16: error: ‘accelAddress’ was not declared in this scope
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+  i2c = new I2c(accelAddress);
+                ^
+../src/Lsm303d.cpp: At global scope:
+../src/Lsm303d.cpp:26:26: error: ‘float Lsm303d::readAccel’ is not a static member of ‘class Lsm303d’
+ float Lsm303d::readAccel(uint8_t accelDir) {
+                          ^
+../src/Lsm303d.cpp:26:26: error: ‘uint8_t’ was not declared in this scope
+../src/Lsm303d.cpp:26:44: error: expected ‘,’ or ‘;’ before ‘{’ token
+ float Lsm303d::readAccel(uint8_t accelDir) {
+                                            ^
+make: *** [src/Lsm303d.o] Error 1
+05:31:33 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+05:31:33 **** Clean-only build of configuration Debug for project 02_slowEmit ****
+make clean 
+rm -rf  ./src/slowEmit.o  ./src/slowEmit.d  02_slowEmit
+ 
+05:31:33 **** Clean-only build of configuration Debug for project 03_fastEmit ****
+make clean 
+rm -rf  ./src/fastEmit.o  ./src/fastEmit.d  03_fastEmit
+ 
+05:31:33 **** Clean-only build of configuration Debug for project accelST ****
+make clean 
+rm -rf  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o  ./src/I2c.d ./src/Lsm303d.d ./src/accelST.d  accelST
+ 
+05:31:35 **** Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+05:31:35 **** Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+05:31:36 **** Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+05:31:37 **** Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from ../src/Lsm303d.cpp:8:0:
+../src/Lsm303d.h:16:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t accelAddress = 0x1e;
+               ^
+../src/Lsm303d.h:19:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t accelX = 0x28;
+               ^
+../src/Lsm303d.h:20:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t accelY = 0x2A;
+               ^
+../src/Lsm303d.h:21:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t accelZ = 0x2C;
+               ^
+../src/Lsm303d.h:23:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t magnetX = 0x08;
+               ^
+../src/Lsm303d.h:24:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t magnetY = 0x0A;
+               ^
+../src/Lsm303d.h:25:15: error: ‘uint8_t’ does not name a type
+  static const uint8_t magnetZ = 0x0C;
+               ^
+../src/Lsm303d.h:27:18: error: ‘uint8_t’ has not been declared
+  float readAccel(uint8_t accelDir);
+                  ^
+../src/Lsm303d.h:28:19: error: ‘uint8_t’ has not been declared
+  float readMagnet(uint8_t magnetDir);
+                   ^
+../src/Lsm303d.cpp: In constructor ‘Lsm303d::Lsm303d()’:
+../src/Lsm303d.cpp:13:16: error: ‘accelAddress’ was not declared in this scope
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+  i2c = new I2c(accelAddress);
+                ^
+../src/Lsm303d.cpp: At global scope:
+../src/Lsm303d.cpp:26:26: error: ‘float Lsm303d::readAccel’ is not a static member of ‘class Lsm303d’
+ float Lsm303d::readAccel(uint8_t accelDir) {
+                          ^
+../src/Lsm303d.cpp:26:26: error: ‘uint8_t’ was not declared in this scope
+../src/Lsm303d.cpp:26:44: error: expected ‘,’ or ‘;’ before ‘{’ token
+ float Lsm303d::readAccel(uint8_t accelDir) {
+                                            ^
+make: *** [src/Lsm303d.o] Error 1
+05:32:40 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:32:41 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:32:41 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:32:41 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:32:7: error: ‘class I2c’ has no member named ‘address’
+  i2c->address(Lsm303d::accelAddress);
+       ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readMagnet(uint8_t)’:
+../src/Lsm303d.cpp:45:7: error: ‘class I2c’ has no member named ‘address’
+  i2c->address(Lsm303d::accelAddress);
+       ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+05:33:59 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:33:59 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:34:00 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:34:00 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+05:37:39 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:37:39 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:37:39 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:37:40 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+05:37:48 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+05:39:22 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:39:22 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:39:22 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:39:23 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+05:41:50 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:41:50 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:41:50 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:41:50 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+../src/accelST.cpp: In function ‘void sigTimer_handler(int)’:
+../src/accelST.cpp:42:60: error: found ‘:’ in nested-name-specifier, expected ‘::’
+  printf("X: %f, Y: %f, Z:%f \n", lsm303d->readAccel(Lsm303d:accelX),
+                                                            ^
+../src/accelST.cpp:43:30: error: found ‘:’ in nested-name-specifier, expected ‘::’
+    lsm303d->readAccel(Lsm303d:accelY), lsm303d->readAccel(Lsm303d:accelZ));
+                              ^
+../src/accelST.cpp:43:66: error: found ‘:’ in nested-name-specifier, expected ‘::’
+    lsm303d->readAccel(Lsm303d:accelY), lsm303d->readAccel(Lsm303d:accelZ));
+                                                                  ^
+src/subdir.mk:24: recipe for target 'src/accelST.o' failed
+make: *** [src/accelST.o] Error 1
+05:42:15 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:42:15 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:42:15 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:42:15 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+05:42:23 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+05:42:33 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+05:44:53 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+05:45:38 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+05:49:12 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+05:50:08 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+05:50:08 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:50:08 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+05:50:08 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+05:50:13 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+12:00:35 **** Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+12:03:31 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+12:05:24 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+12:05:36 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+12:16:21 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+12:34:39 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+12:36:46 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+12:40:06 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+12:44:48 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+12:56:24 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+12:56:33 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+12:57:31 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+12:58:37 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+13:00:09 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+13:03:13 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+13:18:13 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+13:18:45 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+13:37:16 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+13:38:14 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+13:46:58 **** Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+13:50:37 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:39:49: error: ‘printf’ was not declared in this scope
+  printf("Accel1: 0x%h \n",i2c->readReg(accelDir));
+                                                 ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+13:51:04 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:39:2: error: ‘printf’ is not a member of ‘std’
+  std::printf("Accel1: 0x%h \n",i2c->readReg(accelDir));
+  ^
+../src/Lsm303d.cpp:40:2: error: ‘printf’ is not a member of ‘std’
+  std::printf("Accel2: 0x%h \n",i2c->readReg(accelDir | 0x01));
+  ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+13:51:34 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+13:51:35 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+13:51:37 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+13:51:39 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+13:51:40 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:40:54: warning: unknown conversion type character 0x20 in format [-Wformat=]
+  std::printf("Accel1: 0x%h \n",i2c->readReg(accelDir));
+                                                      ^
+../src/Lsm303d.cpp:40:54: warning: too many arguments for format [-Wformat-extra-args]
+../src/Lsm303d.cpp:41:61: warning: unknown conversion type character 0x20 in format [-Wformat=]
+  std::printf("Accel2: 0x%h \n",i2c->readReg(accelDir | 0x01));
+                                                             ^
+../src/Lsm303d.cpp:41:61: warning: too many arguments for format [-Wformat-extra-args]
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+13:52:28 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+13:53:08 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+13:56:28 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+13:56:54 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+13:59:01 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+14:00:05 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+14:02:56 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+14:04:48 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:23:32 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+15:23:32 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+15:23:33 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+15:23:33 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:43:97: error: expected ‘;’ before ‘)’ token
+  return (float)((int16_t)i2c->readReg(accelDir) | (int16_t)(i2c->readReg(accelDir | 0x01) << 8)))*0.00006103888;
+                                                                                                 ^
+../src/Lsm303d.cpp:43:97: error: expected primary-expression before ‘)’ token
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+15:23:41 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:43:97: error: expected ‘;’ before ‘)’ token
+  return (float)((int16_t)i2c->readReg(accelDir) | (int16_t)(i2c->readReg(accelDir | 0x01) << 8)))*0.00006103888;
+                                                                                                 ^
+../src/Lsm303d.cpp:43:97: error: expected primary-expression before ‘)’ token
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+15:23:49 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:43:97: error: expected ‘;’ before ‘)’ token
+  return (float)((int16_t)i2c->readReg(accelDir) | (int16_t)(i2c->readReg(accelDir | 0x01) << 8)))*0.00006103888;
+                                                                                                 ^
+../src/Lsm303d.cpp:43:97: error: expected primary-expression before ‘)’ token
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+15:24:21 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:43:97: error: expected ‘;’ before ‘)’ token
+  return (float)((int16_t)i2c->readReg(accelDir) | (int16_t)(i2c->readReg(accelDir | 0x01) << 8)))*0.00006103888;
+                                                                                                 ^
+../src/Lsm303d.cpp:43:97: error: expected primary-expression before ‘)’ token
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+15:24:51 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:43:97: error: expected ‘;’ before ‘)’ token
+  return (float)((int16_t)i2c->readReg(accelDir) | (int16_t)(i2c->readReg(accelDir | 0x01) << 8)))*0.00006103888;
+                                                                                                 ^
+../src/Lsm303d.cpp:43:97: error: expected primary-expression before ‘)’ token
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+15:25:07 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+15:25:07 **** Clean-only build of configuration Debug for project 02_slowEmit ****
+make clean 
+rm -rf  ./src/slowEmit.o  ./src/slowEmit.d  02_slowEmit
+ 
+15:25:07 **** Clean-only build of configuration Debug for project 03_fastEmit ****
+make clean 
+rm -rf  ./src/fastEmit.o  ./src/fastEmit.d  03_fastEmit
+ 
+15:25:07 **** Clean-only build of configuration Debug for project accelST ****
+make clean 
+rm -rf  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o  ./src/I2c.d ./src/Lsm303d.d ./src/accelST.d  accelST
+ 
+15:25:12 **** Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:43:97: error: expected ‘;’ before ‘)’ token
+  return (float)((int16_t)i2c->readReg(accelDir) | (int16_t)(i2c->readReg(accelDir | 0x01) << 8)))*0.00006103888;
+                                                                                                 ^
+../src/Lsm303d.cpp:43:97: error: expected primary-expression before ‘)’ token
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+15:25:44 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:28:00 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:30:41 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:33:52 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:36:13 **** Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+15:36:14 **** Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+15:36:15 **** Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+15:36:16 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:36:23 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+15:36:32 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+15:38:56 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+15:38:56 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+15:38:57 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+15:38:57 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:39:11 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:40:33 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:42:54 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:45:32 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:46:21 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:47:07 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:47:52 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:51:34 **** Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+15:52:15 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+15:52:37 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+15:53:30 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+15:53:47 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:54:35 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:56:27 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+15:56:35 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+15:57:08 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:02:20 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+In file included from ../src/I2c.cpp:8:0:
+../src/I2c.h:14:2: error: ‘uint8_t’ does not name a type
+  uint8_t devAddress;
+  ^
+../src/I2c.h:17:14: error: expected ‘)’ before ‘devAddress’
+  I2c(uint8_t devAddress);
+              ^
+../src/I2c.h:18:2: error: ‘uint8_t’ does not name a type
+  uint8_t readReg(uint8_t reg);
+  ^
+../src/I2c.h:19:16: error: ‘uint8_t’ has not been declared
+  void writeReg(uint8_t reg, uint8_t value);
+                ^
+../src/I2c.h:19:29: error: ‘uint8_t’ has not been declared
+  void writeReg(uint8_t reg, uint8_t value);
+                             ^
+../src/I2c.cpp:21:9: error: expected constructor, destructor, or type conversion before ‘(’ token
+ I2c::I2c(uint8_t devAddress) {
+         ^
+../src/I2c.cpp:29:1: error: ‘uint8_t’ does not name a type
+ uint8_t I2c::readReg(uint8_t reg) {
+ ^
+../src/I2c.cpp:40:20: error: variable or field ‘writeReg’ declared void
+ void I2c::writeReg(uint8_t reg, uint8_t value) {
+                    ^
+../src/I2c.cpp:40:20: error: ‘uint8_t’ was not declared in this scope
+../src/I2c.cpp:40:33: error: ‘uint8_t’ was not declared in this scope
+ void I2c::writeReg(uint8_t reg, uint8_t value) {
+                                 ^
+src/subdir.mk:24: recipe for target 'src/I2c.o' failed
+make: *** [src/I2c.o] Error 1
+16:02:37 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+16:02:37 **** Clean-only build of configuration Debug for project 02_slowEmit ****
+make clean 
+rm -rf  ./src/slowEmit.o  ./src/slowEmit.d  02_slowEmit
+ 
+16:02:37 **** Clean-only build of configuration Debug for project 03_fastEmit ****
+make clean 
+rm -rf  ./src/fastEmit.o  ./src/fastEmit.d  03_fastEmit
+ 
+16:02:37 **** Clean-only build of configuration Debug for project accelST ****
+make clean 
+rm -rf  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o  ./src/I2c.d ./src/Lsm303d.d ./src/accelST.d  accelST
+ 
+16:02:47 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+16:02:47 **** Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+16:02:48 **** Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+16:02:49 **** Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+16:02:50 **** Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+In file included from ../src/I2c.cpp:8:0:
+../src/I2c.h:14:2: error: ‘uint8_t’ does not name a type
+  uint8_t devAddress;
+  ^
+../src/I2c.h:17:14: error: expected ‘)’ before ‘devAddress’
+  I2c(uint8_t devAddress);
+              ^
+../src/I2c.h:18:2: error: ‘uint8_t’ does not name a type
+  uint8_t readReg(uint8_t reg);
+  ^
+../src/I2c.h:19:16: error: ‘uint8_t’ has not been declared
+  void writeReg(uint8_t reg, uint8_t value);
+                ^
+../src/I2c.h:19:29: error: ‘uint8_t’ has not been declared
+  void writeReg(uint8_t reg, uint8_t value);
+                             ^
+../src/I2c.cpp:21:9: error: expected constructor, destructor, or type conversion before ‘(’ token
+ I2c::I2c(uint8_t devAddress) {
+         ^
+../src/I2c.cpp:29:1: error: ‘uint8_t’ does not name a type
+ uint8_t I2c::readReg(uint8_t reg) {
+ ^
+../src/I2c.cpp:40:20: error: variable or field ‘writeReg’ declared void
+ void I2c::writeReg(uint8_t reg, uint8_t value) {
+                    ^
+../src/I2c.cpp:40:20: error: ‘uint8_t’ was not declared in this scope
+../src/I2c.cpp:40:33: error: ‘uint8_t’ was not declared in this scope
+ void I2c::writeReg(uint8_t reg, uint8_t value) {
+                                 ^
+src/subdir.mk:24: recipe for target 'src/I2c.o' failed
+make: *** [src/I2c.o] Error 1
+16:03:13 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+16:03:13 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+16:03:14 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+16:03:15 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:03:33 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+16:05:51 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:35:4: warning: variable ‘accelVal’ set but not used [-Wunused-but-set-variable]
+  } accelVal;
+    ^
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:06:43 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:35:4: warning: variable ‘accelVal’ set but not used [-Wunused-but-set-variable]
+  } accelVal;
+    ^
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:07:21 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:35:4: warning: variable ‘accelVal’ set but not used [-Wunused-but-set-variable]
+  } accelVal;
+    ^
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:08:30 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+../src/accelST.cpp: In function ‘void sigTimer_handler(int)’:
+../src/accelST.cpp:45:1: error: expected ‘;’ before ‘}’ token
+ }
+ ^
+src/subdir.mk:24: recipe for target 'src/accelST.o' failed
+make: *** [src/accelST.o] Error 1
+16:08:41 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:10:24 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:16:59 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:35:4: warning: variable ‘accelVal’ set but not used [-Wunused-but-set-variable]
+  } accelVal;
+    ^
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:17:27 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:17:48 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:23:29 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:23:47 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:24:47 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:25:25 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:26:32 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:28:47 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:29:28 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:36:00 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:36:38 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:37:19 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:38:00 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:38:49 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:47:33 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+16:47:33 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+16:47:34 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+16:47:34 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+../src/I2c.cpp: In member function ‘uint8_t* I2c::burstRead(uint8_t, int)’:
+../src/I2c.cpp:46:19: error: invalid conversion from ‘uint8_t {aka unsigned char}’ to ‘uint8_t* {aka unsigned char*}’ [-fpermissive]
+  return rxBuffer[0];
+                   ^
+src/subdir.mk:24: recipe for target 'src/I2c.o' failed
+make: *** [src/I2c.o] Error 1
+16:48:58 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+16:49:00 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+16:49:01 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+16:49:01 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:51:01 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:57:20 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:58:30 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+16:58:31 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+16:58:39 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+16:58:56 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+17:04:20 **** Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:05:36 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+17:07:21 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:07:41 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:08:29 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:09:00 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:09:52 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:10:30 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:11:17 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:12:23 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:13:02 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:13:41 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:13:52 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:16:58 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:19:36 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:22:06 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:47:28: error: ‘memcpy’ was not declared in this scope
+  memcpy(&num, accelBytes, 2);
+                            ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+17:22:32 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+17:22:32 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+17:22:33 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+17:22:33 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+17:22:34 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:48:28: error: ‘memcpy’ was not declared in this scope
+  memcpy(&num, accelBytes, 2);
+                            ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+17:23:15 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:23:51 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:25:07 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:25:29 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:26:14 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:27:33 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:30:07 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:33:52 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:34:46 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+17:35:36 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.

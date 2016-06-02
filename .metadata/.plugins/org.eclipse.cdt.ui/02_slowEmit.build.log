@@ -1,0 +1,15 @@
+17:22:33 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+
+17:22:33 Build Finished (took 372ms)
+

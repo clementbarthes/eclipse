@@ -1,0 +1,15 @@
+05:09:09 **** Incremental Build of configuration Debug for project 02_measure ****
+make all 
+Building file: ../src/measure.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/measure.d" -MT"src/measure.o" -o "src/measure.o" "../src/measure.cpp"
+Finished building: ../src/measure.cpp
+ 
+Building target: 02_measure
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_measure"  ./src/measure.o   
+Finished building target: 02_measure
+ 
+
+05:09:09 Build Finished (took 841ms)
+
