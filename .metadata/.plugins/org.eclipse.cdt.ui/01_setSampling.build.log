@@ -1,15 +1,6 @@
-17:22:32 **** Incremental Build of configuration Debug for project 01_setSampling ****
+09:53:53 **** Incremental Build of configuration Debug for project 01_setSampling ****
 make all 
-Building file: ../src/sampling.cpp
-Invoking: Cross G++ Compiler
-arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
-Finished building: ../src/sampling.cpp
- 
-Building target: 01_setSampling
-Invoking: Cross G++ Linker
-arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
-Finished building target: 01_setSampling
- 
+make: Nothing to be done for 'all'.
 
-17:22:32 Build Finished (took 319ms)
+09:53:53 Build Finished (took 75ms)
 

@@ -1,0 +1,18 @@
+/*
+ * SocketNode.cpp
+ *
+ *  Created on: Jun 2, 2016
+ *      Author: developer
+ */
+
+#include "SocketNode.h"
+
+SocketNode::SocketNode() {
+	// TODO Auto-generated constructor stub
+
+}
+
+SocketNode::~SocketNode() {
+	// TODO Auto-generated destructor stub
+}
+

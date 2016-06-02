@@ -4271,3 +4271,2514 @@ make: Nothing to be done for 'all'.
 17:35:36 **** Incremental Build of configuration Debug for project accelST ****
 make all 
 make: Nothing to be done for 'all'.
+17:44:27 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+17:54:40 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:55:15 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:56:22 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:56:50 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+17:58:01 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+18:04:04 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+18:04:05 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+18:04:05 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+18:04:05 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+18:04:08 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+18:05:37 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+18:06:38 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+07:58:00 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+07:58:02 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:58:02 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:58:05 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp:15:31: fatal error: BlackI2C/BlackI2C.h: No such file or directory
+ #include "BlackI2C/BlackI2C.h"
+                               ^
+compilation terminated.
+make: *** [src/Lsm303d.o] Error 1
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+07:58:20 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+07:58:20 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:58:21 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+07:58:23 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+../src/Lsm303d.cpp:15:32: fatal error: /BlackI2C/BlackI2C.h: No such file or directory
+ #include "/BlackI2C/BlackI2C.h"
+                                ^
+compilation terminated.
+make: *** [src/Lsm303d.o] Error 1
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+08:09:33 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+08:09:33 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+08:09:34 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+08:09:35 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+08:09:35 **** Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.cpp:15:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+08:18:01 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.cpp:15:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+In file included from ../src/Lsm303d.cpp:8:0:
+../src/Lsm303d.h:16:2: error: ‘BlackLib’ does not name a type
+  BlackLib::BlackI2C  *i2Cdevice;
+  ^
+../src/Lsm303d.cpp: In constructor ‘Lsm303d::Lsm303d()’:
+../src/Lsm303d.cpp:21:2: error: ‘i2Cdevice’ was not declared in this scope
+  i2Cdevice = new BlackLib::BlackI2C(BlackLib::I2C_1, accelAddress);
+  ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:40:18: error: ‘i2Cdevice’ was not declared in this scope
+  accelBytes[0] = i2Cdevice->readByte(accelDir);
+                  ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readMagnet(uint8_t)’:
+../src/Lsm303d.cpp:55:25: error: ‘i2Cdevice’ was not declared in this scope
+  magnetVal.asArray[0] = i2Cdevice->readByte(magnetDir);
+                         ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+08:18:33 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:18:34 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:18:34 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:18:34 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:11,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:223:57: error: ‘uint8_t’ has not been declared
+             inline bool useSmbusIOCTL(direction rwMode, uint8_t registerAddr, transactionType smbusTransaction, i2c_smbus_data &data);
+                                                         ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:35: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:57: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:35: error: ‘uint8_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:57: error: ‘uint16_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:36: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                    ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:58: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                                          ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:564:35: error: ‘uint8_t’ has not been declared
+             bool        writeLine(uint8_t *writeBuffer, size_t bufferSize);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:577:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readByte(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:590:13: error: ‘uint16_t’ does not name a type
+             uint16_t    readWord(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:605:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readBlock(uint8_t registerAddr, uint8_t *readBuffer, size_t bufferSize);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:621:34: error: ‘uint8_t’ has not been declared
+             bool        readLine(uint8_t *readBuffer, size_t bufferSize);
+                                  ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:40:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[0] = i2Cdevice->readByte(accelDir);
+                             ^
+../src/Lsm303d.cpp:41:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[1] = i2Cdevice->readByte(accelDir | 0x01);
+                             ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readMagnet(uint8_t)’:
+../src/Lsm303d.cpp:55:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[0] = i2Cdevice->readByte(magnetDir);
+                                    ^
+../src/Lsm303d.cpp:56:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[1] = i2Cdevice->readByte(magnetDir|0x01);
+                                    ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+08:18:44 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:18:44 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:18:44 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:18:44 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:11,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:223:57: error: ‘uint8_t’ has not been declared
+             inline bool useSmbusIOCTL(direction rwMode, uint8_t registerAddr, transactionType smbusTransaction, i2c_smbus_data &data);
+                                                         ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:35: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:57: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:35: error: ‘uint8_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:57: error: ‘uint16_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:36: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                    ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:58: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                                          ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:564:35: error: ‘uint8_t’ has not been declared
+             bool        writeLine(uint8_t *writeBuffer, size_t bufferSize);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:577:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readByte(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:590:13: error: ‘uint16_t’ does not name a type
+             uint16_t    readWord(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:605:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readBlock(uint8_t registerAddr, uint8_t *readBuffer, size_t bufferSize);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:621:34: error: ‘uint8_t’ has not been declared
+             bool        readLine(uint8_t *readBuffer, size_t bufferSize);
+                                  ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:40:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[0] = i2Cdevice->readByte(accelDir);
+                             ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+../src/Lsm303d.cpp:41:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[1] = i2Cdevice->readByte(accelDir | 0x01);
+                             ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readMagnet(uint8_t)’:
+../src/Lsm303d.cpp:55:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[0] = i2Cdevice->readByte(magnetDir);
+                                    ^
+../src/Lsm303d.cpp:56:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[1] = i2Cdevice->readByte(magnetDir|0x01);
+                                    ^
+make: *** [src/Lsm303d.o] Error 1
+08:19:30 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+08:19:30 **** Clean-only build of configuration Debug for project 02_slowEmit ****
+make clean 
+rm -rf  ./src/slowEmit.o  ./src/slowEmit.d  02_slowEmit
+ 
+08:19:30 **** Clean-only build of configuration Debug for project 03_fastEmit ****
+make clean 
+rm -rf  ./src/fastEmit.o  ./src/fastEmit.d  03_fastEmit
+ 
+08:19:30 **** Clean-only build of configuration Debug for project accelST ****
+make clean 
+rm -rf  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o  ./src/I2c.d ./src/Lsm303d.d ./src/accelST.d  accelST
+ 
+08:19:36 **** Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+08:19:36 **** Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+08:19:36 **** Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+08:19:37 **** Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:11,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:223:57: error: ‘uint8_t’ has not been declared
+             inline bool useSmbusIOCTL(direction rwMode, uint8_t registerAddr, transactionType smbusTransaction, i2c_smbus_data &data);
+                                                         ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:35: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:57: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:35: error: ‘uint8_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:57: error: ‘uint16_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:36: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                    ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:58: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                                          ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:564:35: error: ‘uint8_t’ has not been declared
+             bool        writeLine(uint8_t *writeBuffer, size_t bufferSize);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:577:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readByte(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:590:13: error: ‘uint16_t’ does not name a type
+             uint16_t    readWord(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:605:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readBlock(uint8_t registerAddr, uint8_t *readBuffer, size_t bufferSize);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:621:34: error: ‘uint8_t’ has not been declared
+             bool        readLine(uint8_t *readBuffer, size_t bufferSize);
+                                  ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:40:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[0] = i2Cdevice->readByte(accelDir);
+                             ^
+../src/Lsm303d.cpp:41:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[1] = i2Cdevice->readByte(accelDir | 0x01);
+                             ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readMagnet(uint8_t)’:
+../src/Lsm303d.cpp:55:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[0] = i2Cdevice->readByte(magnetDir);
+                                    ^
+../src/Lsm303d.cpp:56:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[1] = i2Cdevice->readByte(magnetDir|0x01);
+                                    ^
+make: *** [src/Lsm303d.o] Error 1
+08:19:59 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:19:59 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:19:59 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:20:00 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:11,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:223:57: error: ‘uint8_t’ has not been declared
+             inline bool useSmbusIOCTL(direction rwMode, uint8_t registerAddr, transactionType smbusTransaction, i2c_smbus_data &data);
+                                                         ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:35: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:57: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:35: error: ‘uint8_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:57: error: ‘uint16_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:36: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                    ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:58: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                                          ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:564:35: error: ‘uint8_t’ has not been declared
+             bool        writeLine(uint8_t *writeBuffer, size_t bufferSize);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:577:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readByte(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:590:13: error: ‘uint16_t’ does not name a type
+             uint16_t    readWord(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:605:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readBlock(uint8_t registerAddr, uint8_t *readBuffer, size_t bufferSize);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:621:34: error: ‘uint8_t’ has not been declared
+             bool        readLine(uint8_t *readBuffer, size_t bufferSize);
+                                  ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:40:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[0] = i2Cdevice->readByte(accelDir);
+                             ^
+../src/Lsm303d.cpp:41:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[1] = i2Cdevice->readByte(accelDir | 0x01);
+                             ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readMagnet(uint8_t)’:
+../src/Lsm303d.cpp:55:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+  magnetVal.asArray[0] = i2Cdevice->readByte(magnetDir);
+                                    ^
+../src/Lsm303d.cpp:56:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[1] = i2Cdevice->readByte(magnetDir|0x01);
+                                    ^
+make: *** [src/Lsm303d.o] Error 1
+08:58:41 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+08:58:41 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:58:41 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+08:58:41 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:11,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:223:57: error: ‘uint8_t’ has not been declared
+             inline bool useSmbusIOCTL(direction rwMode, uint8_t registerAddr, transactionType smbusTransaction, i2c_smbus_data &data);
+                                                         ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:35: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:57: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:35: error: ‘uint8_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:57: error: ‘uint16_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:36: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                    ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:58: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                                          ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:564:35: error: ‘uint8_t’ has not been declared
+             bool        writeLine(uint8_t *writeBuffer, size_t bufferSize);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:577:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readByte(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:590:13: error: ‘uint16_t’ does not name a type
+             uint16_t    readWord(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:605:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readBlock(uint8_t registerAddr, uint8_t *readBuffer, size_t bufferSize);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:621:34: error: ‘uint8_t’ has not been declared
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+             bool        readLine(uint8_t *readBuffer, size_t bufferSize);
+                                  ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:40:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[0] = i2Cdevice->readByte(accelDir);
+                             ^
+../src/Lsm303d.cpp:41:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[1] = i2Cdevice->readByte(accelDir | 0x01);
+                             ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readMagnet(uint8_t)’:
+../src/Lsm303d.cpp:55:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[0] = i2Cdevice->readByte(magnetDir);
+                                    ^
+../src/Lsm303d.cpp:56:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[1] = i2Cdevice->readByte(magnetDir|0x01);
+                                    ^
+make: *** [src/Lsm303d.o] Error 1
+09:00:03 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+09:00:03 **** Clean-only build of configuration Debug for project 02_slowEmit ****
+make clean 
+rm -rf  ./src/slowEmit.o  ./src/slowEmit.d  02_slowEmit
+ 
+09:00:03 **** Clean-only build of configuration Debug for project 03_fastEmit ****
+make clean 
+rm -rf  ./src/fastEmit.o  ./src/fastEmit.d  03_fastEmit
+ 
+09:00:03 **** Clean-only build of configuration Debug for project accelST ****
+make clean 
+rm -rf  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o  ./src/I2c.d ./src/Lsm303d.d ./src/accelST.d  accelST
+ 
+09:00:13 **** Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+09:00:14 **** Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+09:00:14 **** Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+09:00:15 **** Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:11,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:223:57: error: ‘uint8_t’ has not been declared
+             inline bool useSmbusIOCTL(direction rwMode, uint8_t registerAddr, transactionType smbusTransaction, i2c_smbus_data &data);
+                                                         ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:35: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:57: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:35: error: ‘uint8_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:57: error: ‘uint16_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:36: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                    ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:58: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                                          ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:564:35: error: ‘uint8_t’ has not been declared
+             bool        writeLine(uint8_t *writeBuffer, size_t bufferSize);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:577:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readByte(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:590:13: error: ‘uint16_t’ does not name a type
+             uint16_t    readWord(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:605:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readBlock(uint8_t registerAddr, uint8_t *readBuffer, size_t bufferSize);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:621:34: error: ‘uint8_t’ has not been declared
+             bool        readLine(uint8_t *readBuffer, size_t bufferSize);
+                                  ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:40:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+  accelBytes[0] = i2Cdevice->readByte(accelDir);
+                             ^
+../src/Lsm303d.cpp:41:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[1] = i2Cdevice->readByte(accelDir | 0x01);
+                             ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readMagnet(uint8_t)’:
+../src/Lsm303d.cpp:55:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[0] = i2Cdevice->readByte(magnetDir);
+                                    ^
+../src/Lsm303d.cpp:56:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[1] = i2Cdevice->readByte(magnetDir|0x01);
+                                    ^
+make: *** [src/Lsm303d.o] Error 1
+09:01:39 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:01:39 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:01:40 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:01:40 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:11,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:223:57: error: ‘uint8_t’ has not been declared
+             inline bool useSmbusIOCTL(direction rwMode, uint8_t registerAddr, transactionType smbusTransaction, i2c_smbus_data &data);
+                                                         ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:35: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:57: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:35: error: ‘uint8_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:57: error: ‘uint16_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:36: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                    ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:58: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                                          ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:564:35: error: ‘uint8_t’ has not been declared
+             bool        writeLine(uint8_t *writeBuffer, size_t bufferSize);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:577:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readByte(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:590:13: error: ‘uint16_t’ does not name a type
+             uint16_t    readWord(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:605:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readBlock(uint8_t registerAddr, uint8_t *readBuffer, size_t bufferSize);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:621:34: error: ‘uint8_t’ has not been declared
+             bool        readLine(uint8_t *readBuffer, size_t bufferSize);
+                                  ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:40:13: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  i2Cdevice->readByte(accelDir);
+             ^
+../src/Lsm303d.cpp:41:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[0] = i2Cdevice->readByte(accelDir);
+                             ^
+../src/Lsm303d.cpp:42:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[1] = i2Cdevice->readByte(accelDir | 0x01);
+                             ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readMagnet(uint8_t)’:
+../src/Lsm303d.cpp:56:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[0] = i2Cdevice->readByte(magnetDir);
+                                    ^
+../src/Lsm303d.cpp:57:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[1] = i2Cdevice->readByte(magnetDir|0x01);
+                                    ^
+make: *** [src/Lsm303d.o] Error 1
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+09:02:56 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:02:56 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:02:56 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:02:56 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:11,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:223:57: error: ‘uint8_t’ has not been declared
+             inline bool useSmbusIOCTL(direction rwMode, uint8_t registerAddr, transactionType smbusTransaction, i2c_smbus_data &data);
+                                                         ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:35: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:57: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:35: error: ‘uint8_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:57: error: ‘uint16_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:36: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                    ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:58: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                                          ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:564:35: error: ‘uint8_t’ has not been declared
+             bool        writeLine(uint8_t *writeBuffer, size_t bufferSize);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:577:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readByte(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:590:13: error: ‘uint16_t’ does not name a type
+             uint16_t    readWord(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:605:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readBlock(uint8_t registerAddr, uint8_t *readBuffer, size_t bufferSize);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:621:34: error: ‘uint8_t’ has not been declared
+             bool        readLine(uint8_t *readBuffer, size_t bufferSize);
+                                  ^
+../src/Lsm303d.cpp: In constructor ‘Lsm303d::Lsm303d()’:
+../src/Lsm303d.cpp:35:13: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  i2Cdevice->readByte(accelDir);
+             ^
+../src/Lsm303d.cpp:35:22: error: ‘accelDir’ was not declared in this scope
+  i2Cdevice->readByte(accelDir);
+                      ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:42:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[0] = i2Cdevice->readByte(accelDir);
+                             ^
+../src/Lsm303d.cpp:43:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+  accelBytes[1] = i2Cdevice->readByte(accelDir | 0x01);
+                             ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readMagnet(uint8_t)’:
+../src/Lsm303d.cpp:57:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[0] = i2Cdevice->readByte(magnetDir);
+                                    ^
+../src/Lsm303d.cpp:58:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[1] = i2Cdevice->readByte(magnetDir|0x01);
+                                    ^
+make: *** [src/Lsm303d.o] Error 1
+09:03:11 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:03:12 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:03:12 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:03:12 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:11,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:223:57: error: ‘uint8_t’ has not been declared
+             inline bool useSmbusIOCTL(direction rwMode, uint8_t registerAddr, transactionType smbusTransaction, i2c_smbus_data &data);
+                                                         ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:35: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:57: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:35: error: ‘uint8_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:57: error: ‘uint16_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:36: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                    ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:58: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                                          ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:564:35: error: ‘uint8_t’ has not been declared
+             bool        writeLine(uint8_t *writeBuffer, size_t bufferSize);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:577:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readByte(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:590:13: error: ‘uint16_t’ does not name a type
+             uint16_t    readWord(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:605:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readBlock(uint8_t registerAddr, uint8_t *readBuffer, size_t bufferSize);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:621:34: error: ‘uint8_t’ has not been declared
+             bool        readLine(uint8_t *readBuffer, size_t bufferSize);
+                                  ^
+../src/Lsm303d.cpp: In constructor ‘Lsm303d::Lsm303d()’:
+../src/Lsm303d.cpp:35:13: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  i2Cdevice->readByte(0x1E);
+             ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:42:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[0] = i2Cdevice->readByte(accelDir);
+                             ^
+../src/Lsm303d.cpp:43:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[1] = i2Cdevice->readByte(accelDir | 0x01);
+                             ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readMagnet(uint8_t)’:
+../src/Lsm303d.cpp:57:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[0] = i2Cdevice->readByte(magnetDir);
+                                    ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+../src/Lsm303d.cpp:58:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[1] = i2Cdevice->readByte(magnetDir|0x01);
+                                    ^
+make: *** [src/Lsm303d.o] Error 1
+09:05:21 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:05:21 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:05:21 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:05:21 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:14,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+09:05:38 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+09:05:38 **** Clean-only build of configuration Debug for project 02_slowEmit ****
+make clean 
+rm -rf  ./src/slowEmit.o  ./src/slowEmit.d  02_slowEmit
+ 
+09:05:38 **** Clean-only build of configuration Debug for project 03_fastEmit ****
+make clean 
+rm -rf  ./src/fastEmit.o  ./src/fastEmit.d  03_fastEmit
+ 
+09:05:38 **** Clean-only build of configuration Debug for project accelST ****
+make clean 
+rm -rf  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o  ./src/I2c.d ./src/Lsm303d.d ./src/accelST.d  accelST
+ 
+09:05:40 **** Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+09:05:40 **** Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+09:05:41 **** Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+09:05:41 **** Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:14,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+09:06:52 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:06:53 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:06:53 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:06:53 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:14,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+09:11:22 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:11:22 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:11:23 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:11:23 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:14,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+09:12:32 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+09:12:32 **** Clean-only build of configuration Debug for project 02_slowEmit ****
+make clean 
+rm -rf  ./src/slowEmit.o  ./src/slowEmit.d  02_slowEmit
+ 
+09:12:32 **** Clean-only build of configuration Debug for project 03_fastEmit ****
+make clean 
+rm -rf  ./src/fastEmit.o  ./src/fastEmit.d  03_fastEmit
+ 
+09:12:32 **** Clean-only build of configuration Debug for project accelST ****
+make clean 
+rm -rf  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o  ./src/I2c.d ./src/Lsm303d.d ./src/accelST.d  accelST
+ 
+09:12:36 **** Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+09:12:37 **** Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+09:12:37 **** Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+09:12:38 **** Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -D__GXX_EXPERIMENTAL_CXX0X__ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -D__GXX_EXPERIMENTAL_CXX0X__ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:14,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+09:13:12 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:13:12 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:13:13 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:13:13 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -D__GXX_EXPERIMENTAL_CXX0X__ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:11,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:223:57: error: ‘uint8_t’ has not been declared
+             inline bool useSmbusIOCTL(direction rwMode, uint8_t registerAddr, transactionType smbusTransaction, i2c_smbus_data &data);
+                                                         ^
+In file included from ../src/Lsm303d.h:11:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:35: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:57: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:35: error: ‘uint8_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:57: error: ‘uint16_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:36: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                    ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:58: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                                          ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:564:35: error: ‘uint8_t’ has not been declared
+             bool        writeLine(uint8_t *writeBuffer, size_t bufferSize);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:577:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readByte(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:590:13: error: ‘uint16_t’ does not name a type
+             uint16_t    readWord(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:605:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readBlock(uint8_t registerAddr, uint8_t *readBuffer, size_t bufferSize);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:621:34: error: ‘uint8_t’ has not been declared
+             bool        readLine(uint8_t *readBuffer, size_t bufferSize);
+                                  ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:39:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[0] = i2Cdevice->readByte(accelDir);
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+                             ^
+../src/Lsm303d.cpp:40:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[1] = i2Cdevice->readByte(accelDir | 0x01);
+                             ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readMagnet(uint8_t)’:
+../src/Lsm303d.cpp:54:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[0] = i2Cdevice->readByte(magnetDir);
+                                    ^
+../src/Lsm303d.cpp:55:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[1] = i2Cdevice->readByte(magnetDir|0x01);
+                                    ^
+make: *** [src/Lsm303d.o] Error 1
+09:13:22 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:13:22 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:13:22 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:13:23 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -D__GXX_EXPERIMENTAL_CXX0X__ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:13,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+In file included from ../src/Lsm303d.h:13:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:223:57: error: ‘uint8_t’ has not been declared
+             inline bool useSmbusIOCTL(direction rwMode, uint8_t registerAddr, transactionType smbusTransaction, i2c_smbus_data &data);
+                                                         ^
+In file included from ../src/Lsm303d.h:13:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:35: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:57: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:35: error: ‘uint8_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:57: error: ‘uint16_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:36: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                    ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:58: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                                          ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:564:35: error: ‘uint8_t’ has not been declared
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+             bool        writeLine(uint8_t *writeBuffer, size_t bufferSize);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:577:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readByte(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:590:13: error: ‘uint16_t’ does not name a type
+             uint16_t    readWord(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:605:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readBlock(uint8_t registerAddr, uint8_t *readBuffer, size_t bufferSize);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:621:34: error: ‘uint8_t’ has not been declared
+             bool        readLine(uint8_t *readBuffer, size_t bufferSize);
+                                  ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:39:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[0] = i2Cdevice->readByte(accelDir);
+                             ^
+../src/Lsm303d.cpp:40:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[1] = i2Cdevice->readByte(accelDir | 0x01);
+                             ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readMagnet(uint8_t)’:
+../src/Lsm303d.cpp:54:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[0] = i2Cdevice->readByte(magnetDir);
+                                    ^
+../src/Lsm303d.cpp:55:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[1] = i2Cdevice->readByte(magnetDir|0x01);
+                                    ^
+make: *** [src/Lsm303d.o] Error 1
+09:13:29 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:13:29 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:13:29 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:13:29 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -D__GXX_EXPERIMENTAL_CXX0X__ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:13,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+In file included from ../src/Lsm303d.h:13:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:223:57: error: ‘uint8_t’ has not been declared
+             inline bool useSmbusIOCTL(direction rwMode, uint8_t registerAddr, transactionType smbusTransaction, i2c_smbus_data &data);
+                                                         ^
+In file included from ../src/Lsm303d.h:13:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:35: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:57: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:35: error: ‘uint8_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:57: error: ‘uint16_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:36: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                    ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:58: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                                          ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:564:35: error: ‘uint8_t’ has not been declared
+             bool        writeLine(uint8_t *writeBuffer, size_t bufferSize);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:577:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readByte(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:590:13: error: ‘uint16_t’ does not name a type
+             uint16_t    readWord(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:605:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readBlock(uint8_t registerAddr, uint8_t *readBuffer, size_t bufferSize);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:621:34: error: ‘uint8_t’ has not been declared
+             bool        readLine(uint8_t *readBuffer, size_t bufferSize);
+                                  ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:39:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[0] = i2Cdevice->readByte(accelDir);
+                             ^
+../src/Lsm303d.cpp:40:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[1] = i2Cdevice->readByte(accelDir | 0x01);
+                             ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readMagnet(uint8_t)’:
+../src/Lsm303d.cpp:54:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[0] = i2Cdevice->readByte(magnetDir);
+                                    ^
+../src/Lsm303d.cpp:55:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[1] = i2Cdevice->readByte(magnetDir|0x01);
+                                    ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+09:13:31 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:13:31 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:13:32 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:13:32 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -D__GXX_EXPERIMENTAL_CXX0X__ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:13,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+In file included from ../src/Lsm303d.h:13:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:223:57: error: ‘uint8_t’ has not been declared
+             inline bool useSmbusIOCTL(direction rwMode, uint8_t registerAddr, transactionType smbusTransaction, i2c_smbus_data &data);
+                                                         ^
+In file included from ../src/Lsm303d.h:13:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:35: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:57: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:35: error: ‘uint8_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:57: error: ‘uint16_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:36: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                    ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:58: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                                          ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:564:35: error: ‘uint8_t’ has not been declared
+             bool        writeLine(uint8_t *writeBuffer, size_t bufferSize);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:577:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readByte(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:590:13: error: ‘uint16_t’ does not name a type
+             uint16_t    readWord(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:605:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readBlock(uint8_t registerAddr, uint8_t *readBuffer, size_t bufferSize);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:621:34: error: ‘uint8_t’ has not been declared
+             bool        readLine(uint8_t *readBuffer, size_t bufferSize);
+                                  ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:39:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[0] = i2Cdevice->readByte(accelDir);
+                             ^
+../src/Lsm303d.cpp:40:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[1] = i2Cdevice->readByte(accelDir | 0x01);
+                             ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readMagnet(uint8_t)’:
+../src/Lsm303d.cpp:54:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[0] = i2Cdevice->readByte(magnetDir);
+                                    ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+../src/Lsm303d.cpp:55:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[1] = i2Cdevice->readByte(magnetDir|0x01);
+                                    ^
+make: *** [src/Lsm303d.o] Error 1
+09:15:00 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:15:00 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:15:00 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:15:00 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -D__GXX_EXPERIMENTAL_CXX0X__ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:12,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+In file included from ../src/Lsm303d.h:12:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:223:57: error: ‘uint8_t’ has not been declared
+             inline bool useSmbusIOCTL(direction rwMode, uint8_t registerAddr, transactionType smbusTransaction, i2c_smbus_data &data);
+                                                         ^
+In file included from ../src/Lsm303d.h:12:0,
+                 from ../src/Lsm303d.cpp:8:
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:35: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:361:57: error: ‘uint8_t’ has not been declared
+             bool        writeByte(uint8_t registerAddr, uint8_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:35: error: ‘uint8_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:435:57: error: ‘uint16_t’ has not been declared
+             bool        writeWord(uint8_t registerAddr, uint16_t value);
+                                                         ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:36: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                    ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:501:58: error: ‘uint8_t’ has not been declared
+             bool        writeBlock(uint8_t registerAddr, uint8_t *writeBuffer, size_t bufferSize);
+                                                          ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:564:35: error: ‘uint8_t’ has not been declared
+             bool        writeLine(uint8_t *writeBuffer, size_t bufferSize);
+                                   ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:577:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readByte(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:590:13: error: ‘uint16_t’ does not name a type
+             uint16_t    readWord(uint8_t registerAddr);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:605:13: error: ‘uint8_t’ does not name a type
+             uint8_t     readBlock(uint8_t registerAddr, uint8_t *readBuffer, size_t bufferSize);
+             ^
+/home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:621:34: error: ‘uint8_t’ has not been declared
+             bool        readLine(uint8_t *readBuffer, size_t bufferSize);
+                                  ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readAccel(uint8_t)’:
+../src/Lsm303d.cpp:39:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[0] = i2Cdevice->readByte(accelDir);
+                             ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+../src/Lsm303d.cpp:40:29: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  accelBytes[1] = i2Cdevice->readByte(accelDir | 0x01);
+                             ^
+../src/Lsm303d.cpp: In member function ‘float Lsm303d::readMagnet(uint8_t)’:
+../src/Lsm303d.cpp:54:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[0] = i2Cdevice->readByte(magnetDir);
+                                    ^
+../src/Lsm303d.cpp:55:36: error: ‘class BlackLib::BlackI2C’ has no member named ‘readByte’
+  magnetVal.asArray[1] = i2Cdevice->readByte(magnetDir|0x01);
+                                    ^
+make: *** [src/Lsm303d.o] Error 1
+09:15:16 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:15:16 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:15:16 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:15:16 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -D__GXX_EXPERIMENTAL_CXX0X__ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from /usr/include/c++/4.9/cstdint:35:0,
+                 from /home/developer/eclipseProjects/libs/BlackLib/v3_0/BlackI2C/BlackI2C.h:44,
+                 from ../src/Lsm303d.h:15,
+                 from ../src/Lsm303d.cpp:8:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+09:17:58 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:17:58 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:17:59 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:17:59 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++ -L/home/developer/eclipseProjects/libs/BlackLib/v3_0 -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+./src/Lsm303d.o: In function `Lsm303d::Lsm303d()':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:20: undefined reference to `BlackLib::BlackI2C::BlackI2C(BlackLib::i2cName, unsigned int)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:22: undefined reference to `BlackLib::BlackI2C::open(unsigned int)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:25: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:26: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:27: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:28: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:29: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+./src/Lsm303d.o:/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:30: more undefined references to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)' follow
+makefile:45: recipe for target 'accelST' failed
+./src/Lsm303d.o: In function `Lsm303d::readAccel(unsigned char)':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:39: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:40: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+./src/Lsm303d.o: In function `Lsm303d::readMagnet(unsigned char)':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:54: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:55: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+collect2: error: ld returned 1 exit status
+make: *** [accelST] Error 1
+09:18:27 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:18:27 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:18:27 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:18:27 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++ -L/home/developer/eclipseProjects/libs/BlackLib/v3_0 -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+./src/Lsm303d.o: In function `Lsm303d::Lsm303d()':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:20: undefined reference to `BlackLib::BlackI2C::BlackI2C(BlackLib::i2cName, unsigned int)'
+makefile:45: recipe for target 'accelST' failed
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:22: undefined reference to `BlackLib::BlackI2C::open(unsigned int)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:25: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:26: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:27: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:28: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:29: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+./src/Lsm303d.o:/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:30: more undefined references to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)' follow
+./src/Lsm303d.o: In function `Lsm303d::readAccel(unsigned char)':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:39: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:40: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+./src/Lsm303d.o: In function `Lsm303d::readMagnet(unsigned char)':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:54: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:55: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+collect2: error: ld returned 1 exit status
+make: *** [accelST] Error 1
+09:18:47 **** Clean-only build of configuration Debug for project 01_setSampling ****
+make clean 
+rm -rf  ./src/sampling.o  ./src/sampling.d  01_setSampling
+ 
+09:18:47 **** Clean-only build of configuration Debug for project 02_slowEmit ****
+make clean 
+rm -rf  ./src/slowEmit.o  ./src/slowEmit.d  02_slowEmit
+ 
+09:18:47 **** Clean-only build of configuration Debug for project 03_fastEmit ****
+make clean 
+rm -rf  ./src/fastEmit.o  ./src/fastEmit.d  03_fastEmit
+ 
+09:18:47 **** Clean-only build of configuration Debug for project accelST ****
+make clean 
+rm -rf  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o  ./src/I2c.d ./src/Lsm303d.d ./src/accelST.d  accelST
+ 
+09:18:50 **** Build of configuration Debug for project 01_setSampling ****
+make all 
+Building file: ../src/sampling.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampling.d" -MT"src/sampling.o" -o "src/sampling.o" "../src/sampling.cpp"
+Finished building: ../src/sampling.cpp
+ 
+Building target: 01_setSampling
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "01_setSampling"  ./src/sampling.o   
+Finished building target: 01_setSampling
+ 
+09:18:50 **** Build of configuration Debug for project 02_slowEmit ****
+make all 
+Building file: ../src/slowEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/slowEmit.d" -MT"src/slowEmit.o" -o "src/slowEmit.o" "../src/slowEmit.cpp"
+Finished building: ../src/slowEmit.cpp
+ 
+Building target: 02_slowEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "02_slowEmit"  ./src/slowEmit.o   
+Finished building target: 02_slowEmit
+ 
+09:18:51 **** Build of configuration Debug for project 03_fastEmit ****
+make all 
+Building file: ../src/fastEmit.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
+Finished building: ../src/fastEmit.cpp
+ 
+Building target: 03_fastEmit
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
+Finished building target: 03_fastEmit
+ 
+09:18:51 **** Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++ -L/home/developer/eclipseProjects/libs/BlackLib/v3_0 -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+./src/Lsm303d.o: In function `Lsm303d::Lsm303d()':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:20: undefined reference to `BlackLib::BlackI2C::BlackI2C(BlackLib::i2cName, unsigned int)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:22: undefined reference to `BlackLib::BlackI2C::open(unsigned int)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:25: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:26: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:27: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:28: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:29: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+./src/Lsm303d.o:/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:30: more undefined references to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)' follow
+./src/Lsm303d.o: In function `Lsm303d::readAccel(unsigned char)':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:39: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+makefile:45: recipe for target 'accelST' failed
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:40: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+./src/Lsm303d.o: In function `Lsm303d::readMagnet(unsigned char)':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:54: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:55: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+collect2: error: ld returned 1 exit status
+make: *** [accelST] Error 1
+09:21:36 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:21:36 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:21:36 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:21:36 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++ -L/home/developer/eclipseProjects/libs/BlackLib/v3_0 -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+./src/Lsm303d.o: In function `Lsm303d::Lsm303d()':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:20: undefined reference to `BlackLib::BlackI2C::BlackI2C(BlackLib::i2cName, unsigned int)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:22: undefined reference to `BlackLib::BlackI2C::open(unsigned int)'
+makefile:45: recipe for target 'accelST' failed
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:25: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:26: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:27: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:28: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:29: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+./src/Lsm303d.o:/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:30: more undefined references to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)' follow
+./src/Lsm303d.o: In function `Lsm303d::readAccel(unsigned char)':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:39: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:40: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+./src/Lsm303d.o: In function `Lsm303d::readMagnet(unsigned char)':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:54: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:55: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+collect2: error: ld returned 1 exit status
+make: *** [accelST] Error 1
+09:22:17 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:22:17 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:22:18 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:22:18 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++ -L/home/developer/eclipseProjects/libs/BlackLib/v3_0 -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+./src/Lsm303d.o: In function `Lsm303d::Lsm303d()':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:20: undefined reference to `BlackLib::BlackI2C::BlackI2C(BlackLib::i2cName, unsigned int)'
+makefile:45: recipe for target 'accelST' failed
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:22: undefined reference to `BlackLib::BlackI2C::open(unsigned int)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:25: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:26: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:27: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:28: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:29: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+./src/Lsm303d.o:/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:30: more undefined references to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)' follow
+./src/Lsm303d.o: In function `Lsm303d::readAccel(unsigned char)':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:39: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:40: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+./src/Lsm303d.o: In function `Lsm303d::readMagnet(unsigned char)':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:54: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:55: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+collect2: error: ld returned 1 exit status
+make: *** [accelST] Error 1
+09:25:20 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:25:20 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:25:20 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:25:21 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -I/home/developer/eclipseProjects/libs/BlackLib/v3_0 -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++ -L/home/developer/eclipseProjects/libs/BlackLib/v3_0 -o "accelST"  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+./src/Lsm303d.o: In function `Lsm303d::Lsm303d()':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:20: undefined reference to `BlackLib::BlackI2C::BlackI2C(BlackLib::i2cName, unsigned int)'
+makefile:45: recipe for target 'accelST' failed
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:22: undefined reference to `BlackLib::BlackI2C::open(unsigned int)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:25: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:26: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:27: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:28: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:29: undefined reference to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)'
+./src/Lsm303d.o:/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:30: more undefined references to `BlackLib::BlackI2C::writeByte(unsigned char, unsigned char)' follow
+./src/Lsm303d.o: In function `Lsm303d::readAccel(unsigned char)':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:39: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:40: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+./src/Lsm303d.o: In function `Lsm303d::readMagnet(unsigned char)':
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:54: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+/home/developer/eclipseProjects/accelST/Debug/../src/Lsm303d.cpp:55: undefined reference to `BlackLib::BlackI2C::readByte(unsigned char)'
+collect2: error: ld returned 1 exit status
+make: *** [accelST] Error 1
+09:28:56 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:28:56 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:28:56 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:28:56 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/BlackLib/BlackUART/BlackUART.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackUART/BlackUART.d" -MT"src/BlackLib/BlackUART/BlackUART.o" -o "src/BlackLib/BlackUART/BlackUART.o" "../src/BlackLib/BlackUART/BlackUART.cpp"
+Finished building: ../src/BlackLib/BlackUART/BlackUART.cpp
+ 
+Building file: ../src/BlackLib/BlackTime/BlackTime.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackTime/BlackTime.d" -MT"src/BlackLib/BlackTime/BlackTime.o" -o "src/BlackLib/BlackTime/BlackTime.o" "../src/BlackLib/BlackTime/BlackTime.cpp"
+Finished building: ../src/BlackLib/BlackTime/BlackTime.cpp
+ 
+Building file: ../src/BlackLib/BlackThread/BlackThread.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackThread/BlackThread.d" -MT"src/BlackLib/BlackThread/BlackThread.o" -o "src/BlackLib/BlackThread/BlackThread.o" "../src/BlackLib/BlackThread/BlackThread.cpp"
+Finished building: ../src/BlackLib/BlackThread/BlackThread.cpp
+ 
+Building file: ../src/BlackLib/BlackSPI/BlackSPI.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackSPI/BlackSPI.d" -MT"src/BlackLib/BlackSPI/BlackSPI.o" -o "src/BlackLib/BlackSPI/BlackSPI.o" "../src/BlackLib/BlackSPI/BlackSPI.cpp"
+Finished building: ../src/BlackLib/BlackSPI/BlackSPI.cpp
+ 
+Building file: ../src/BlackLib/BlackPWM/BlackPWM.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackPWM/BlackPWM.d" -MT"src/BlackLib/BlackPWM/BlackPWM.o" -o "src/BlackLib/BlackPWM/BlackPWM.o" "../src/BlackLib/BlackPWM/BlackPWM.cpp"
+Finished building: ../src/BlackLib/BlackPWM/BlackPWM.cpp
+ 
+Building file: ../src/BlackLib/BlackMutex/BlackMutex.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackMutex/BlackMutex.d" -MT"src/BlackLib/BlackMutex/BlackMutex.o" -o "src/BlackLib/BlackMutex/BlackMutex.o" "../src/BlackLib/BlackMutex/BlackMutex.cpp"
+Finished building: ../src/BlackLib/BlackMutex/BlackMutex.cpp
+ 
+Building file: ../src/BlackLib/BlackI2C/BlackI2C.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackI2C/BlackI2C.d" -MT"src/BlackLib/BlackI2C/BlackI2C.o" -o "src/BlackLib/BlackI2C/BlackI2C.o" "../src/BlackLib/BlackI2C/BlackI2C.cpp"
+Finished building: ../src/BlackLib/BlackI2C/BlackI2C.cpp
+ 
+Building file: ../src/BlackLib/BlackGPIO/BlackGPIO.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackGPIO/BlackGPIO.d" -MT"src/BlackLib/BlackGPIO/BlackGPIO.o" -o "src/BlackLib/BlackGPIO/BlackGPIO.o" "../src/BlackLib/BlackGPIO/BlackGPIO.cpp"
+Finished building: ../src/BlackLib/BlackGPIO/BlackGPIO.cpp
+ 
+Building file: ../src/BlackLib/BlackDirectory/BlackDirectory.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackDirectory/BlackDirectory.d" -MT"src/BlackLib/BlackDirectory/BlackDirectory.o" -o "src/BlackLib/BlackDirectory/BlackDirectory.o" "../src/BlackLib/BlackDirectory/BlackDirectory.cpp"
+Finished building: ../src/BlackLib/BlackDirectory/BlackDirectory.cpp
+ 
+Building file: ../src/BlackLib/BlackADC/BlackADC.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackADC/BlackADC.d" -MT"src/BlackLib/BlackADC/BlackADC.o" -o "src/BlackLib/BlackADC/BlackADC.o" "../src/BlackLib/BlackADC/BlackADC.cpp"
+Finished building: ../src/BlackLib/BlackADC/BlackADC.cpp
+ 
+Building file: ../src/BlackLib/BlackCore.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackCore.d" -MT"src/BlackLib/BlackCore.o" -o "src/BlackLib/BlackCore.o" "../src/BlackLib/BlackCore.cpp"
+Finished building: ../src/BlackLib/BlackCore.cpp
+ 
+Building file: ../src/BlackLib/examples.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/examples.d" -MT"src/BlackLib/examples.o" -o "src/BlackLib/examples.o" "../src/BlackLib/examples.cpp"
+Finished building: ../src/BlackLib/examples.cpp
+ 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+In file included from ../src/Lsm303d.cpp:8:0:
+../src/Lsm303d.h:14:40: fatal error: BlackLIb/BlackI2C/BlackI2C.h: No such file or directory
+ #include "BlackLIb/BlackI2C/BlackI2C.h"
+                                        ^
+compilation terminated.
+src/subdir.mk:24: recipe for target 'src/Lsm303d.o' failed
+make: *** [src/Lsm303d.o] Error 1
+09:29:49 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:29:49 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:29:49 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:29:50 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/BlackLib/BlackUART/BlackUART.o  ./src/BlackLib/BlackTime/BlackTime.o  ./src/BlackLib/BlackThread/BlackThread.o  ./src/BlackLib/BlackSPI/BlackSPI.o  ./src/BlackLib/BlackPWM/BlackPWM.o  ./src/BlackLib/BlackMutex/BlackMutex.o  ./src/BlackLib/BlackI2C/BlackI2C.o  ./src/BlackLib/BlackGPIO/BlackGPIO.o  ./src/BlackLib/BlackDirectory/BlackDirectory.o  ./src/BlackLib/BlackADC/BlackADC.o  ./src/BlackLib/BlackCore.o ./src/BlackLib/examples.o  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+./src/accelST.o: In function `main':
+/home/developer/eclipseProjects/accelST/Debug/../src/accelST.cpp:21: multiple definition of `main'
+./src/BlackLib/examples.o:/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/examples.cpp:47: first defined here
+./src/BlackLib/BlackThread/BlackThread.o: In function `BlackLib::BlackThread::run()':
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackThread/BlackThread.cpp:231: undefined reference to `pthread_create'
+./src/BlackLib/BlackThread/BlackThread.o: In function `BlackLib::BlackThread::waitUntilFinish()':
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackThread/BlackThread.cpp:280: undefined reference to `pthread_join'
+./src/BlackLib/BlackMutex/BlackMutex.o: In function `BlackLib::BlackMutex::BlackMutex(BlackLib::BlackMutex::mutexMode)':
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:19: undefined reference to `pthread_mutexattr_init'
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:23: undefined reference to `pthread_mutexattr_settype'
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:27: undefined reference to `pthread_mutexattr_settype'
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:30: undefined reference to `pthread_mutexattr_setpshared'
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:33: undefined reference to `pthread_mutexattr_destroy'
+./src/BlackLib/BlackMutex/BlackMutex.o: In function `BlackLib::BlackMutex::timedLock(unsigned int)':
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:57: undefined reference to `pthread_mutex_timedlock'
+./src/BlackLib/BlackMutex/BlackMutex.o: In function `BlackLib::BlackMutex::tryLock()':
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:66: undefined reference to `pthread_mutex_trylock'
+collect2: error: ld returned 1 exit status
+make: *** [accelST] Error 1
+makefile:56: recipe for target 'accelST' failed
+09:30:20 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:30:20 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:30:20 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:30:20 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/BlackLib/BlackUART/BlackUART.o  ./src/BlackLib/BlackTime/BlackTime.o  ./src/BlackLib/BlackThread/BlackThread.o  ./src/BlackLib/BlackSPI/BlackSPI.o  ./src/BlackLib/BlackPWM/BlackPWM.o  ./src/BlackLib/BlackMutex/BlackMutex.o  ./src/BlackLib/BlackI2C/BlackI2C.o  ./src/BlackLib/BlackGPIO/BlackGPIO.o  ./src/BlackLib/BlackDirectory/BlackDirectory.o  ./src/BlackLib/BlackADC/BlackADC.o  ./src/BlackLib/BlackCore.o ./src/BlackLib/examples.o  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+./src/accelST.o: In function `main':
+/home/developer/eclipseProjects/accelST/Debug/../src/accelST.cpp:21: multiple definition of `main'
+makefile:56: recipe for target 'accelST' failed
+./src/BlackLib/examples.o:/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/examples.cpp:47: first defined here
+./src/BlackLib/BlackThread/BlackThread.o: In function `BlackLib::BlackThread::run()':
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackThread/BlackThread.cpp:231: undefined reference to `pthread_create'
+./src/BlackLib/BlackThread/BlackThread.o: In function `BlackLib::BlackThread::waitUntilFinish()':
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackThread/BlackThread.cpp:280: undefined reference to `pthread_join'
+./src/BlackLib/BlackMutex/BlackMutex.o: In function `BlackLib::BlackMutex::BlackMutex(BlackLib::BlackMutex::mutexMode)':
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:19: undefined reference to `pthread_mutexattr_init'
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:23: undefined reference to `pthread_mutexattr_settype'
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:27: undefined reference to `pthread_mutexattr_settype'
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:30: undefined reference to `pthread_mutexattr_setpshared'
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:33: undefined reference to `pthread_mutexattr_destroy'
+./src/BlackLib/BlackMutex/BlackMutex.o: In function `BlackLib::BlackMutex::timedLock(unsigned int)':
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:57: undefined reference to `pthread_mutex_timedlock'
+./src/BlackLib/BlackMutex/BlackMutex.o: In function `BlackLib::BlackMutex::tryLock()':
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:66: undefined reference to `pthread_mutex_trylock'
+collect2: error: ld returned 1 exit status
+make: *** [accelST] Error 1
+09:31:48 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:31:49 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:31:49 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:31:49 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/BlackLib/BlackUART/BlackUART.o  ./src/BlackLib/BlackTime/BlackTime.o  ./src/BlackLib/BlackThread/BlackThread.o  ./src/BlackLib/BlackSPI/BlackSPI.o  ./src/BlackLib/BlackPWM/BlackPWM.o  ./src/BlackLib/BlackMutex/BlackMutex.o  ./src/BlackLib/BlackI2C/BlackI2C.o  ./src/BlackLib/BlackGPIO/BlackGPIO.o  ./src/BlackLib/BlackDirectory/BlackDirectory.o  ./src/BlackLib/BlackADC/BlackADC.o  ./src/BlackLib/BlackCore.o ./src/BlackLib/examples.o  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+./src/accelST.o: In function `main':
+/home/developer/eclipseProjects/accelST/Debug/../src/accelST.cpp:21: multiple definition of `main'
+makefile:56: recipe for target 'accelST' failed
+./src/BlackLib/examples.o:/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/examples.cpp:47: first defined here
+./src/BlackLib/BlackThread/BlackThread.o: In function `BlackLib::BlackThread::run()':
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackThread/BlackThread.cpp:231: undefined reference to `pthread_create'
+./src/BlackLib/BlackThread/BlackThread.o: In function `BlackLib::BlackThread::waitUntilFinish()':
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackThread/BlackThread.cpp:280: undefined reference to `pthread_join'
+./src/BlackLib/BlackMutex/BlackMutex.o: In function `BlackLib::BlackMutex::BlackMutex(BlackLib::BlackMutex::mutexMode)':
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:19: undefined reference to `pthread_mutexattr_init'
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:23: undefined reference to `pthread_mutexattr_settype'
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:27: undefined reference to `pthread_mutexattr_settype'
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:30: undefined reference to `pthread_mutexattr_setpshared'
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:33: undefined reference to `pthread_mutexattr_destroy'
+./src/BlackLib/BlackMutex/BlackMutex.o: In function `BlackLib::BlackMutex::timedLock(unsigned int)':
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:57: undefined reference to `pthread_mutex_timedlock'
+./src/BlackLib/BlackMutex/BlackMutex.o: In function `BlackLib::BlackMutex::tryLock()':
+/home/developer/eclipseProjects/accelST/Debug/../src/BlackLib/BlackMutex/BlackMutex.cpp:66: undefined reference to `pthread_mutex_trylock'
+collect2: error: ld returned 1 exit status
+make: *** [accelST] Error 1
+09:32:32 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:32:32 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:32:32 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:32:32 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/BlackLib/examples.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/examples.d" -MT"src/BlackLib/examples.o" -o "src/BlackLib/examples.o" "../src/BlackLib/examples.cpp"
+In file included from ../src/BlackLib/examples.cpp:31:0:
+../src/BlackLib/BlackLib.h:41:37: fatal error: BlackThread/BlackThread.h: No such file or directory
+ #include "BlackThread/BlackThread.h"
+                                     ^
+compilation terminated.
+src/BlackLib/subdir.mk:21: recipe for target 'src/BlackLib/examples.o' failed
+make: *** [src/BlackLib/examples.o] Error 1
+09:32:57 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:32:57 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:32:57 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:32:57 **** Clean-only build of configuration Debug for project accelST ****
+make clean 
+rm -rf  ./src/BlackLib/BlackUART/BlackUART.o  ./src/BlackLib/BlackTime/BlackTime.o  ./src/BlackLib/BlackSPI/BlackSPI.o  ./src/BlackLib/BlackPWM/BlackPWM.o  ./src/BlackLib/BlackI2C/BlackI2C.o  ./src/BlackLib/BlackGPIO/BlackGPIO.o  ./src/BlackLib/BlackDirectory/BlackDirectory.o  ./src/BlackLib/BlackADC/BlackADC.o  ./src/BlackLib/BlackCore.o ./src/BlackLib/examples.o  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o  ./src/BlackLib/BlackUART/BlackUART.d  ./src/BlackLib/BlackTime/BlackTime.d  ./src/BlackLib/BlackSPI/BlackSPI.d  ./src/BlackLib/BlackPWM/BlackPWM.d  ./src/BlackLib/BlackI2C/BlackI2C.d  ./src/BlackLib/BlackGPIO/BlackGPIO.d  ./src/BlackLib/BlackDirectory/BlackDirectory.d  ./src/BlackLib/BlackADC/BlackADC.d  ./src/BlackLib/BlackCore.d ./src/BlackLib/examples.d  ./src/I2c.d ./src/Lsm303d.d ./src/accelST.d  accelST
+ 
+09:32:57 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/BlackLib/BlackUART/BlackUART.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackUART/BlackUART.d" -MT"src/BlackLib/BlackUART/BlackUART.o" -o "src/BlackLib/BlackUART/BlackUART.o" "../src/BlackLib/BlackUART/BlackUART.cpp"
+Finished building: ../src/BlackLib/BlackUART/BlackUART.cpp
+ 
+Building file: ../src/BlackLib/BlackTime/BlackTime.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackTime/BlackTime.d" -MT"src/BlackLib/BlackTime/BlackTime.o" -o "src/BlackLib/BlackTime/BlackTime.o" "../src/BlackLib/BlackTime/BlackTime.cpp"
+Finished building: ../src/BlackLib/BlackTime/BlackTime.cpp
+ 
+Building file: ../src/BlackLib/BlackSPI/BlackSPI.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackSPI/BlackSPI.d" -MT"src/BlackLib/BlackSPI/BlackSPI.o" -o "src/BlackLib/BlackSPI/BlackSPI.o" "../src/BlackLib/BlackSPI/BlackSPI.cpp"
+Finished building: ../src/BlackLib/BlackSPI/BlackSPI.cpp
+ 
+Building file: ../src/BlackLib/BlackPWM/BlackPWM.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackPWM/BlackPWM.d" -MT"src/BlackLib/BlackPWM/BlackPWM.o" -o "src/BlackLib/BlackPWM/BlackPWM.o" "../src/BlackLib/BlackPWM/BlackPWM.cpp"
+Finished building: ../src/BlackLib/BlackPWM/BlackPWM.cpp
+ 
+Building file: ../src/BlackLib/BlackI2C/BlackI2C.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackI2C/BlackI2C.d" -MT"src/BlackLib/BlackI2C/BlackI2C.o" -o "src/BlackLib/BlackI2C/BlackI2C.o" "../src/BlackLib/BlackI2C/BlackI2C.cpp"
+Finished building: ../src/BlackLib/BlackI2C/BlackI2C.cpp
+ 
+Building file: ../src/BlackLib/BlackGPIO/BlackGPIO.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackGPIO/BlackGPIO.d" -MT"src/BlackLib/BlackGPIO/BlackGPIO.o" -o "src/BlackLib/BlackGPIO/BlackGPIO.o" "../src/BlackLib/BlackGPIO/BlackGPIO.cpp"
+Finished building: ../src/BlackLib/BlackGPIO/BlackGPIO.cpp
+ 
+Building file: ../src/BlackLib/BlackDirectory/BlackDirectory.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackDirectory/BlackDirectory.d" -MT"src/BlackLib/BlackDirectory/BlackDirectory.o" -o "src/BlackLib/BlackDirectory/BlackDirectory.o" "../src/BlackLib/BlackDirectory/BlackDirectory.cpp"
+Finished building: ../src/BlackLib/BlackDirectory/BlackDirectory.cpp
+ 
+Building file: ../src/BlackLib/BlackADC/BlackADC.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackADC/BlackADC.d" -MT"src/BlackLib/BlackADC/BlackADC.o" -o "src/BlackLib/BlackADC/BlackADC.o" "../src/BlackLib/BlackADC/BlackADC.cpp"
+Finished building: ../src/BlackLib/BlackADC/BlackADC.cpp
+ 
+Building file: ../src/BlackLib/BlackCore.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackCore.d" -MT"src/BlackLib/BlackCore.o" -o "src/BlackLib/BlackCore.o" "../src/BlackLib/BlackCore.cpp"
+Finished building: ../src/BlackLib/BlackCore.cpp
+ 
+Building file: ../src/BlackLib/examples.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/examples.d" -MT"src/BlackLib/examples.o" -o "src/BlackLib/examples.o" "../src/BlackLib/examples.cpp"
+In file included from ../src/BlackLib/examples.cpp:40:0:
+../src/BlackLib/examples/example_threadAndMutex.h:35:40: fatal error: ../BlackThread/BlackThread.h: No such file or directory
+ #include "../BlackThread/BlackThread.h"
+                                        ^
+compilation terminated.
+src/BlackLib/subdir.mk:21: recipe for target 'src/BlackLib/examples.o' failed
+make: *** [src/BlackLib/examples.o] Error 1
+09:33:21 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:33:21 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:33:21 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:33:22 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/BlackLib/examples.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/examples.d" -MT"src/BlackLib/examples.o" -o "src/BlackLib/examples.o" "../src/BlackLib/examples.cpp"
+../src/BlackLib/examples.cpp:33:35: fatal error: examples/example_GPIO.h: No such file or directory
+ #include "examples/example_GPIO.h"
+                                   ^
+compilation terminated.
+src/BlackLib/subdir.mk:21: recipe for target 'src/BlackLib/examples.o' failed
+make: *** [src/BlackLib/examples.o] Error 1
+09:33:28 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:33:28 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:33:28 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:33:28 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/BlackLib/examples.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/examples.d" -MT"src/BlackLib/examples.o" -o "src/BlackLib/examples.o" "../src/BlackLib/examples.cpp"
+../src/BlackLib/examples.cpp:33:35: fatal error: examples/example_GPIO.h: No such file or directory
+ #include "examples/example_GPIO.h"
+                                   ^
+compilation terminated.
+src/BlackLib/subdir.mk:21: recipe for target 'src/BlackLib/examples.o' failed
+make: *** [src/BlackLib/examples.o] Error 1
+09:33:40 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:33:40 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:33:40 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:33:40 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/BlackLib/BlackUART/BlackUART.o  ./src/BlackLib/BlackTime/BlackTime.o  ./src/BlackLib/BlackSPI/BlackSPI.o  ./src/BlackLib/BlackPWM/BlackPWM.o  ./src/BlackLib/BlackI2C/BlackI2C.o  ./src/BlackLib/BlackGPIO/BlackGPIO.o  ./src/BlackLib/BlackDirectory/BlackDirectory.o  ./src/BlackLib/BlackADC/BlackADC.o  ./src/BlackLib/BlackCore.o  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+09:33:53 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.
+09:35:00 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/BlackLib/BlackUART/BlackUART.o  ./src/BlackLib/BlackTime/BlackTime.o  ./src/BlackLib/BlackSPI/BlackSPI.o  ./src/BlackLib/BlackPWM/BlackPWM.o  ./src/BlackLib/BlackI2C/BlackI2C.o  ./src/BlackLib/BlackGPIO/BlackGPIO.o  ./src/BlackLib/BlackDirectory/BlackDirectory.o  ./src/BlackLib/BlackADC/BlackADC.o  ./src/BlackLib/BlackCore.o  ./src/I2c.o ./src/Lsm303d.o ./src/accelST.o   
+Finished building target: accelST
+ 
+09:50:12 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:50:12 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:50:12 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:50:13 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/SocketNode.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/SocketNode.d" -MT"src/SocketNode.o" -o "src/SocketNode.o" "../src/SocketNode.cpp"
+Finished building: ../src/SocketNode.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+../src/accelST.cpp: In function ‘void sigTimer_handler(int)’:
+../src/accelST.cpp:46:27: error: ‘pointsToGather’ was not declared in this scope
+  static char gatheredData[pointsToGather*(3*sizeof(float))];
+                           ^
+../src/accelST.cpp:48:15: error: ‘accel’ was not declared in this scope
+  float accX = accel->readAccel(Lsm303d::accelX);
+               ^
+../src/accelST.cpp:44:13: warning: unused variable ‘dataGatherIter’ [-Wunused-variable]
+  static int dataGatherIter = 0;
+             ^
+../src/accelST.cpp:45:13: warning: unused variable ‘ptrIter’ [-Wunused-variable]
+  static int ptrIter = 0;
+             ^
+../src/accelST.cpp:48:8: warning: unused variable ‘accX’ [-Wunused-variable]
+  float accX = accel->readAccel(Lsm303d::accelX);
+        ^
+../src/accelST.cpp:49:8: warning: unused variable ‘accY’ [-Wunused-variable]
+  float accY = accel->readAccel(Lsm303d::accelY);
+        ^
+../src/accelST.cpp:50:8: warning: unused variable ‘accZ’ [-Wunused-variable]
+  float accZ = accel->readAccel(Lsm303d::accelZ);
+        ^
+src/subdir.mk:27: recipe for target 'src/accelST.o' failed
+make: *** [src/accelST.o] Error 1
+09:50:42 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:50:42 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:50:42 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:50:42 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+../src/accelST.cpp: In function ‘void sigTimer_handler(int)’:
+../src/accelST.cpp:50:15: error: ‘accel’ was not declared in this scope
+  float accX = accel->readAccel(Lsm303d::accelX);
+               ^
+../src/accelST.cpp:46:13: warning: unused variable ‘dataGatherIter’ [-Wunused-variable]
+  static int dataGatherIter = 0;
+             ^
+../src/accelST.cpp:47:13: warning: unused variable ‘ptrIter’ [-Wunused-variable]
+  static int ptrIter = 0;
+             ^
+../src/accelST.cpp:48:14: warning: unused variable ‘gatheredData’ [-Wunused-variable]
+  static char gatheredData[pointsToGather*(3*sizeof(float))];
+              ^
+../src/accelST.cpp:50:8: warning: unused variable ‘accX’ [-Wunused-variable]
+  float accX = accel->readAccel(Lsm303d::accelX);
+        ^
+../src/accelST.cpp:51:8: warning: unused variable ‘accY’ [-Wunused-variable]
+  float accY = accel->readAccel(Lsm303d::accelY);
+        ^
+../src/accelST.cpp:52:8: warning: unused variable ‘accZ’ [-Wunused-variable]
+  float accZ = accel->readAccel(Lsm303d::accelZ);
+        ^
+src/subdir.mk:27: recipe for target 'src/accelST.o' failed
+make: *** [src/accelST.o] Error 1
+09:51:14 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:51:14 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:51:14 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:51:14 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+../src/accelST.cpp: In function ‘void sigTimer_handler(int)’:
+../src/accelST.cpp:46:13: warning: unused variable ‘dataGatherIter’ [-Wunused-variable]
+  static int dataGatherIter = 0;
+             ^
+../src/accelST.cpp:47:13: warning: unused variable ‘ptrIter’ [-Wunused-variable]
+  static int ptrIter = 0;
+             ^
+../src/accelST.cpp:48:14: warning: unused variable ‘gatheredData’ [-Wunused-variable]
+  static char gatheredData[pointsToGather*(3*sizeof(float))];
+              ^
+../src/accelST.cpp:50:8: warning: unused variable ‘accX’ [-Wunused-variable]
+  float accX = lsm303d->readAccel(Lsm303d::accelX);
+        ^
+../src/accelST.cpp:51:8: warning: unused variable ‘accY’ [-Wunused-variable]
+  float accY = lsm303d->readAccel(Lsm303d::accelY);
+        ^
+../src/accelST.cpp:52:8: warning: unused variable ‘accZ’ [-Wunused-variable]
+  float accZ = lsm303d->readAccel(Lsm303d::accelZ);
+        ^
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/BlackLib/BlackUART/BlackUART.o  ./src/BlackLib/BlackTime/BlackTime.o  ./src/BlackLib/BlackSPI/BlackSPI.o  ./src/BlackLib/BlackPWM/BlackPWM.o  ./src/BlackLib/BlackI2C/BlackI2C.o  ./src/BlackLib/BlackGPIO/BlackGPIO.o  ./src/BlackLib/BlackDirectory/BlackDirectory.o  ./src/BlackLib/BlackADC/BlackADC.o  ./src/BlackLib/BlackCore.o  ./src/I2c.o ./src/Lsm303d.o ./src/SocketNode.o ./src/accelST.o   
+Finished building target: accelST
+ 
+09:53:53 **** Incremental Build of configuration Debug for project 01_setSampling ****
+make all 
+make: Nothing to be done for 'all'.
+09:53:53 **** Incremental Build of configuration Debug for project 02_slowEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:53:53 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+make all 
+make: Nothing to be done for 'all'.
+09:53:54 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/BlackLib/BlackUART/BlackUART.o  ./src/BlackLib/BlackTime/BlackTime.o  ./src/BlackLib/BlackSPI/BlackSPI.o  ./src/BlackLib/BlackPWM/BlackPWM.o  ./src/BlackLib/BlackI2C/BlackI2C.o  ./src/BlackLib/BlackGPIO/BlackGPIO.o  ./src/BlackLib/BlackDirectory/BlackDirectory.o  ./src/BlackLib/BlackADC/BlackADC.o  ./src/BlackLib/BlackCore.o  ./src/I2c.o ./src/Lsm303d.o ./src/SocketNode.o ./src/accelST.o   
+Finished building target: accelST
+ 
+09:54:07 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+make: Nothing to be done for 'all'.

@@ -1,15 +1,6 @@
-17:22:33 **** Incremental Build of configuration Debug for project 03_fastEmit ****
+09:53:53 **** Incremental Build of configuration Debug for project 03_fastEmit ****
 make all 
-Building file: ../src/fastEmit.cpp
-Invoking: Cross G++ Compiler
-arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fastEmit.d" -MT"src/fastEmit.o" -o "src/fastEmit.o" "../src/fastEmit.cpp"
-Finished building: ../src/fastEmit.cpp
- 
-Building target: 03_fastEmit
-Invoking: Cross G++ Linker
-arm-linux-gnueabihf-g++  -o "03_fastEmit"  ./src/fastEmit.o   
-Finished building target: 03_fastEmit
- 
+make: Nothing to be done for 'all'.
 
-17:22:34 Build Finished (took 569ms)
+09:53:53 Build Finished (took 78ms)
 

@@ -11,12 +11,21 @@
 #include <fstream>
 #include <unistd.h>
 #include <sys/time.h>
+
 #include "Lsm303d.h"
+#include "SocketNode.h"
 using namespace std;
+
+#define pointsToGather 10
 
 void sigTimer_handler(int signum);
 
 Lsm303d *lsm303d;
+ofstream dataFile;
+char readBuffer[BUFSIZ+1];
+int serverStatus = 0;
+SocketNode* socketNode = new SocketNode();
+//char refPath[] = "/media/sdcard/data0001.txt";
 
 int main() {
 	lsm303d = new Lsm303d();
@@ -39,9 +48,28 @@ int main() {
 
 
 void sigTimer_handler(int signum){
-	lsm303d->readAccel(Lsm303d::accelX);
-	lsm303d->readAccel(Lsm303d::accelY);
-	lsm303d->readAccel(Lsm303d::accelZ);
-//	printf("X: %f, Y: %f, Z:%f \n", lsm303d->readAccel(Lsm303d::accelX),
-//			lsm303d->readAccel(Lsm303d::accelY), lsm303d->readAccel(Lsm303d::accelZ));
+	static int dataGatherIter = 0;
+	static int ptrIter = 0;
+	static char gatheredData[pointsToGather*(3*sizeof(float))];
+
+	float accX = lsm303d->readAccel(Lsm303d::accelX);
+	float accY = lsm303d->readAccel(Lsm303d::accelY);
+	float accZ = lsm303d->readAccel(Lsm303d::accelZ);
+
+	++dataGatherIter;
+	memcpy(gatheredData+ptrIter, &accX, sizeof(float));
+	ptrIter += sizeof(float);
+	memcpy(gatheredData+ptrIter, &accY, sizeof(float));
+	ptrIter += sizeof(float);
+	memcpy(gatheredData+ptrIter, &accZ, sizeof(float));
+	ptrIter += sizeof(float);
+
+	if (dataGatherIter == pointsToGather){
+		if(!socketNode->writeToNode(gatheredData, pointsToGather*3*sizeof(float))){
+			// If it failed, try to reconnect
+			printf("Reconnection: %i \n", serverStatus = socketNode->connectToNode());
+		}
+		dataGatherIter = 0;
+		ptrIter = 0;
+	}
 }

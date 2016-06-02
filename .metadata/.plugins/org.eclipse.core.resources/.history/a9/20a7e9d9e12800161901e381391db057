@@ -1,0 +1,17 @@
+/*
+ * SocketNode.h
+ *
+ *  Created on: Jun 2, 2016
+ *      Author: developer
+ */
+
+#ifndef SOCKETNODE_H_
+#define SOCKETNODE_H_
+
+class SocketNode {
+public:
+	SocketNode();
+	virtual ~SocketNode();
+};
+
+#endif /* SOCKETNODE_H_ */

@@ -38,13 +38,16 @@ uint8_t I2c::readReg(uint8_t reg) {
 }
 uint8_t* I2c::burstRead(uint8_t reg, int nBytes) {
 	uint8_t* rxBuffer = new uint8_t[nBytes];
-	uint8_t txBuffer[1];
+	uint8_t txBuffer[2];
 	txBuffer[0] = reg;
+
 	ioctl(fileHandle,I2C_SLAVE,this->devAddress);
 	write(fileHandle,txBuffer,1);
-	if(read(fileHandle,rxBuffer,nBytes)!=nBytes){
-		perror("I2c failed");
-	}
+	read(fileHandle,rxBuffer,1);
+	txBuffer[0] = reg | 0x01;
+	write(fileHandle,txBuffer,1);
+	read(fileHandle,&rxBuffer[1],1);
+
 	return rxBuffer;
 }
 
