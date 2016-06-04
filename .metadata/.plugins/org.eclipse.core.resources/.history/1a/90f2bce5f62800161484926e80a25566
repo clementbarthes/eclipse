@@ -35,7 +35,7 @@ int main() {
 	timer.it_value.tv_usec = 0; // in usec
 	/* Repetitive timer */
 	timer.it_interval.tv_sec = 0;  //in sec
-	timer.it_interval.tv_usec = 10000;
+	timer.it_interval.tv_usec = 1000;
 
 	signal(SIGALRM, &sigTimer_handler);
 	printf("Timer: %i \n", setitimer(ITIMER_REAL, &timer, NULL));

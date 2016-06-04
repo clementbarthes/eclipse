@@ -1,6 +1,6 @@
-09:54:07 **** Incremental Build of configuration Debug for project accelST ****
+12:18:12 **** Incremental Build of configuration Debug for project accelST ****
 make all 
 make: Nothing to be done for 'all'.
 
-09:54:07 Build Finished (took 107ms)
+12:18:12 Build Finished (took 77ms)
 
