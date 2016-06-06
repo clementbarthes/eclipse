@@ -1,6 +1,15 @@
-12:18:12 **** Incremental Build of configuration Debug for project accelST ****
+13:10:40 **** Incremental Build of configuration Debug for project accelST ****
 make all 
-make: Nothing to be done for 'all'.
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/BlackLib/BlackUART/BlackUART.o  ./src/BlackLib/BlackTime/BlackTime.o  ./src/BlackLib/BlackSPI/BlackSPI.o  ./src/BlackLib/BlackPWM/BlackPWM.o  ./src/BlackLib/BlackI2C/BlackI2C.o  ./src/BlackLib/BlackGPIO/BlackGPIO.o  ./src/BlackLib/BlackDirectory/BlackDirectory.o  ./src/BlackLib/BlackADC/BlackADC.o  ./src/BlackLib/BlackCore.o  ./src/I2c.o ./src/Lsm303d.o ./src/SocketNode.o ./src/accelST.o   
+Finished building target: accelST
+ 
 
-12:18:12 Build Finished (took 77ms)
+13:10:42 Build Finished (took 1s.707ms)
 

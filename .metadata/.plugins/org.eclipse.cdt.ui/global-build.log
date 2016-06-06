@@ -6812,3 +6812,87 @@ make: Nothing to be done for 'all'.
 12:18:12 **** Incremental Build of configuration Debug for project accelST ****
 make all 
 make: Nothing to be done for 'all'.
+13:02:58 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/BlackLib/BlackUART/BlackUART.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackUART/BlackUART.d" -MT"src/BlackLib/BlackUART/BlackUART.o" -o "src/BlackLib/BlackUART/BlackUART.o" "../src/BlackLib/BlackUART/BlackUART.cpp"
+Finished building: ../src/BlackLib/BlackUART/BlackUART.cpp
+ 
+Building file: ../src/BlackLib/BlackTime/BlackTime.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackTime/BlackTime.d" -MT"src/BlackLib/BlackTime/BlackTime.o" -o "src/BlackLib/BlackTime/BlackTime.o" "../src/BlackLib/BlackTime/BlackTime.cpp"
+Finished building: ../src/BlackLib/BlackTime/BlackTime.cpp
+ 
+Building file: ../src/BlackLib/BlackSPI/BlackSPI.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackSPI/BlackSPI.d" -MT"src/BlackLib/BlackSPI/BlackSPI.o" -o "src/BlackLib/BlackSPI/BlackSPI.o" "../src/BlackLib/BlackSPI/BlackSPI.cpp"
+Finished building: ../src/BlackLib/BlackSPI/BlackSPI.cpp
+ 
+Building file: ../src/BlackLib/BlackPWM/BlackPWM.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackPWM/BlackPWM.d" -MT"src/BlackLib/BlackPWM/BlackPWM.o" -o "src/BlackLib/BlackPWM/BlackPWM.o" "../src/BlackLib/BlackPWM/BlackPWM.cpp"
+Finished building: ../src/BlackLib/BlackPWM/BlackPWM.cpp
+ 
+Building file: ../src/BlackLib/BlackI2C/BlackI2C.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackI2C/BlackI2C.d" -MT"src/BlackLib/BlackI2C/BlackI2C.o" -o "src/BlackLib/BlackI2C/BlackI2C.o" "../src/BlackLib/BlackI2C/BlackI2C.cpp"
+Finished building: ../src/BlackLib/BlackI2C/BlackI2C.cpp
+ 
+Building file: ../src/BlackLib/BlackGPIO/BlackGPIO.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackGPIO/BlackGPIO.d" -MT"src/BlackLib/BlackGPIO/BlackGPIO.o" -o "src/BlackLib/BlackGPIO/BlackGPIO.o" "../src/BlackLib/BlackGPIO/BlackGPIO.cpp"
+Finished building: ../src/BlackLib/BlackGPIO/BlackGPIO.cpp
+ 
+Building file: ../src/BlackLib/BlackDirectory/BlackDirectory.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackDirectory/BlackDirectory.d" -MT"src/BlackLib/BlackDirectory/BlackDirectory.o" -o "src/BlackLib/BlackDirectory/BlackDirectory.o" "../src/BlackLib/BlackDirectory/BlackDirectory.cpp"
+Finished building: ../src/BlackLib/BlackDirectory/BlackDirectory.cpp
+ 
+Building file: ../src/BlackLib/BlackADC/BlackADC.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackADC/BlackADC.d" -MT"src/BlackLib/BlackADC/BlackADC.o" -o "src/BlackLib/BlackADC/BlackADC.o" "../src/BlackLib/BlackADC/BlackADC.cpp"
+Finished building: ../src/BlackLib/BlackADC/BlackADC.cpp
+ 
+Building file: ../src/BlackLib/BlackCore.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/BlackLib/BlackCore.d" -MT"src/BlackLib/BlackCore.o" -o "src/BlackLib/BlackCore.o" "../src/BlackLib/BlackCore.cpp"
+Finished building: ../src/BlackLib/BlackCore.cpp
+ 
+Building file: ../src/I2c.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/I2c.d" -MT"src/I2c.o" -o "src/I2c.o" "../src/I2c.cpp"
+Finished building: ../src/I2c.cpp
+ 
+Building file: ../src/Lsm303d.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/Lsm303d.d" -MT"src/Lsm303d.o" -o "src/Lsm303d.o" "../src/Lsm303d.cpp"
+Finished building: ../src/Lsm303d.cpp
+ 
+Building file: ../src/SocketNode.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/SocketNode.d" -MT"src/SocketNode.o" -o "src/SocketNode.o" "../src/SocketNode.cpp"
+Finished building: ../src/SocketNode.cpp
+ 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/BlackLib/BlackUART/BlackUART.o  ./src/BlackLib/BlackTime/BlackTime.o  ./src/BlackLib/BlackSPI/BlackSPI.o  ./src/BlackLib/BlackPWM/BlackPWM.o  ./src/BlackLib/BlackI2C/BlackI2C.o  ./src/BlackLib/BlackGPIO/BlackGPIO.o  ./src/BlackLib/BlackDirectory/BlackDirectory.o  ./src/BlackLib/BlackADC/BlackADC.o  ./src/BlackLib/BlackCore.o  ./src/I2c.o ./src/Lsm303d.o ./src/SocketNode.o ./src/accelST.o   
+Finished building target: accelST
+ 
+13:10:40 **** Incremental Build of configuration Debug for project accelST ****
+make all 
+Building file: ../src/accelST.cpp
+Invoking: Cross G++ Compiler
+arm-linux-gnueabihf-g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"src/accelST.d" -MT"src/accelST.o" -o "src/accelST.o" "../src/accelST.cpp"
+Finished building: ../src/accelST.cpp
+ 
+Building target: accelST
+Invoking: Cross G++ Linker
+arm-linux-gnueabihf-g++  -o "accelST"  ./src/BlackLib/BlackUART/BlackUART.o  ./src/BlackLib/BlackTime/BlackTime.o  ./src/BlackLib/BlackSPI/BlackSPI.o  ./src/BlackLib/BlackPWM/BlackPWM.o  ./src/BlackLib/BlackI2C/BlackI2C.o  ./src/BlackLib/BlackGPIO/BlackGPIO.o  ./src/BlackLib/BlackDirectory/BlackDirectory.o  ./src/BlackLib/BlackADC/BlackADC.o  ./src/BlackLib/BlackCore.o  ./src/I2c.o ./src/Lsm303d.o ./src/SocketNode.o ./src/accelST.o   
+Finished building target: accelST
+ 

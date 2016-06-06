@@ -1,0 +1,17 @@
+/*
+ * Lis33de.h
+ *
+ *  Created on: Jun 5, 2016
+ *      Author: developer
+ */
+
+#ifndef LIS33DE_H_
+#define LIS33DE_H_
+
+class Lis33de {
+public:
+	Lis33de();
+	virtual ~Lis33de();
+};
+
+#endif /* LIS33DE_H_ */
